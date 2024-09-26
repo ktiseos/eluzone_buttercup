@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/011/02/water-conducting-cells/","title":"Water-Conducting Cells","tags":["BIOL412"]}
+---
+
+**Water-conducting cells** are a category of plant cells found in [[011/02/Xylem\|Xylem]] in the [[Vascular Tissue System\|vascular tissue system]] which facilitate the vertical and lateral movement of water through the plant. At maturity, they can be classified into two types: [[011/02/Tracheids\|Tracheids]] and [[011/02/Vessel Elements\|Vessel Elements]]. All [[Land Plants\|land plants]] possess water-conducting cells. However, most [[011/02/Bryophytes\|Bryophytes]] and [[011/02/Gymnosperms\|Gymnosperms]] will only possess tracheid-type water-conducting cells; [[011/02/Angiosperms\|Angiosperms]] can possess either or both tracheids and vessel elements.
+
+All water-conducting cells begin as live cells and are killed similarly. They begin as [[Protoxylem\|protoxylem]], then mature into [[Metaxylem\|metaxylem]]. As this occurs, their [[Cell Walls\|cell walls]] and [[Organelles\|organelles]] are degraded and removed to increase the efficiency of water transport across the cell. By maturity, water-conducting cells are dead, [[Elongate\|elongate]] cells which have been fully hollowed out, save for thick [[011/02/Secondary Cell Wall\|secondary cell walls]] which were deposited as it died.

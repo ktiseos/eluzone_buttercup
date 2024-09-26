@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/011/02/symbiosis/","title":"Symbiosis","tags":["APBIO","BIOL422"]}
+---
+
+**Symbiosis** is the umbrella term for any form of long-term [[Interspecific Interaction\|interspecific interaction]]. Symbiosis is a category of phenomena which occur in [[Biology\|biological]] [[Communities\|communities]]. It is not exclusive to beneficial interactions between [[Organisms\|organisms]], and it accordingly includes behavior such as [[Predation\|predation]], [[Competition\|competition]], and [[Parasitism\|parasitism]].
+
+Symbiosis can be viewed by the effects it has on either of the involved parties, which are positive, neutral (or unaffecting), or negative. The most popular symbiotic interactions which are associated with these categories also follow the textbook definition of symbiosis in which at least one organism benefits: [[Mutualism\|mutualism]], [[Commensalism\|commensalism]], and [[Antagonism\|antagonism]] respectively (the latter of which is best known through parasitism). Informative sites will often refer to these as the symbiotic interactions. However, not all interspecific interactions must result in a benefit: competition, another commonly accepted form of symbiosis, has negative effects on all species involved. Additionally, [[Neutralism\|neutralism]] and [[Amensalism\|amensalism]] are suggested forms of interaction in which neither organism benefits, but at least one does is not negatively affected.

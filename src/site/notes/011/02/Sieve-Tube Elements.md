@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/011/02/sieve-tube-elements/","title":"Sieve-Tube Elements","tags":["BIOL412"]}
+---
+
+**Sieve-tube elements** are a kind of [[Plant Cells\|plant cell]] found in [[Phloem\|phloem]] tissue. They are soft, small [[Cells\|cells]] which can be stacked to form long sieve tubes. They only possess [[011/02/Middle Lamella\|middle lamellae]] and [[011/02/Primary Cell Wall\|primary cell walls]], making them soft and easy to damage; as a result, they last an average of a year before being destroyed.
+
+Sieve-tube elements resemble [[011/02/Vessel Elements\|vessel element]] [[011/02/Water-Conducting Cells\|water-conducting cells]]. Like vessel elements, they have large plates on the end walls known as [[Sieve-Plates\|sieve-plates]]. They also have enlarged pores, which are actually large [[011/02/Plasmodesmata\|plasmodesmata]], on their lateral [[Cell Walls\|cell walls]]. Their [[011/02/Protoplast\|protoplast]] has been heavily modified: [[Organelles\|organelles]] such as the [[Central Vacuole\|central vacuole]], [[Cytoskeleton\|cytoskeleton]], [[Nucleus\|nucleus]], and [[Ribosomes\|ribosomes]] removed to increase the efficiency of material transport. Unlike the water-conducting cells, not all of the organelles have been removed, such as the [[Endoplasmic Reticulum\|endoplasmic reticulum]] and the [[Mitochondria\|mitochondria]]; these organelles line the edges of the sieve-tube element cell wall to avoid impeding transport.
+
+Sieve-tube elements transport sugars, RNA, and several hormones across the plant. They are aided by [[Companion Cells\|companion cells]] to load sugars and perform metabolism to function. Due to their fragility, they are partially composed of [[Callose\|callose]], which plugs the sieve-plates alongside [[P-Proteins\|P-proteins]] when the cell is damaged.
