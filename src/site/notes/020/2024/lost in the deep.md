@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/020/2024/lost-in-the-deep/","title":"lost in the deep","noteIcon":"fallback","created":"2024-09-26T13:45:04.193-07:00","updated":"2024-09-26T15:47:22.186-07:00"}
+{"dg-publish":true,"permalink":"/020/2024/lost-in-the-deep/","title":"lost in the deep","noteIcon":"1","created":"2024-09-26T13:45:04.193-07:00","updated":"2024-09-26T15:47:22.186-07:00"}
 ---
 
 > **— and the air is thick with the smell of earth, water, and age.**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/fibrocartilage/","title":"Fibrocartilage","tags":["BIOL422"],"noteIcon":"fallback","created":"2024-09-26T13:45:04.086-07:00","updated":"2024-09-26T15:18:27.454-07:00"}
+{"dg-publish":true,"permalink":"/011/02/fibrocartilage/","title":"Fibrocartilage","tags":["BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.086-07:00","updated":"2024-09-26T15:18:27.454-07:00"}
 ---
 
 **Fibrocartilage** is a type of [[011/02/Cartilage\|cartilaginous]] [[011/02/Tissues\|tissue]] in the [[011/02/Connective Tissues\|connective tissue]] category. It is known for being a sturdier form of cartilage due to the presence of many bundles of [[Collagen\|collagenous]] [[011/02/Proteinaceous Fibers\|fibers]] within the [[Chondrin\|chondrin]] [[011/02/Matrix\|matrix]]. The collagenous fibers are densely packed between the [[Lacunae\|lacunae]] openings. This strengthens the tissue and makes it able to withstand higher pressures than other types of cartilage.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/tracheids/","title":"Tracheids","tags":["BIOL412"],"noteIcon":"fallback","created":"2024-09-26T13:45:04.138-07:00","updated":"2024-09-26T15:26:52.267-07:00"}
+{"dg-publish":true,"permalink":"/011/02/tracheids/","title":"Tracheids","tags":["BIOL412"],"noteIcon":"1","created":"2024-09-26T13:45:04.138-07:00","updated":"2024-09-26T15:26:52.267-07:00"}
 ---
 
 **Tracheids** are a kind of [[011/02/Water-Conducting Cells\|water-conducting cell]] which can be found in any kind of [[Land Plants\|land plant]]. They are the only type of water-conducting cell present in most [[011/02/Bryophytes\|bryophytes]] and [[011/02/Gymnosperms\|gymnosperms]].

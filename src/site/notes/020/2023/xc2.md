@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/020/2023/xc2/","title":"2,000,000,000 years into the future.","tags":["FFXIV"],"noteIcon":"fallback","created":"2024-09-26T13:45:04.191-07:00","updated":"2024-09-26T15:43:02.223-07:00"}
+{"dg-publish":true,"permalink":"/020/2023/xc2/","title":"2,000,000,000 years into the future.","tags":["FFXIV"],"noteIcon":"1","created":"2024-09-26T13:45:04.191-07:00","updated":"2024-09-26T15:43:02.223-07:00"}
 ---
 
 > [!note] **you would stand in the ruins of your home;** you would unravel the web of time and destroy a billion billion hearts to mend your own. but the universe has never worked like that.

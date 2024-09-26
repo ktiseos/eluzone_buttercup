@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/villi/","title":"Villi","tags":["BIOL422"],"noteIcon":"fallback","created":"2024-09-26T13:45:04.141-07:00","updated":"2024-09-26T15:27:14.932-07:00"}
+{"dg-publish":true,"permalink":"/011/02/villi/","title":"Villi","tags":["BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.141-07:00","updated":"2024-09-26T15:27:14.932-07:00"}
 ---
 
 A **villus** (*pl.* villi) is a thin, finger-like epithelial projection made from [[011/02/Simple Epithelial Tissues\|simple]] [[011/02/Columnar\|columnar]] [[011/02/Epithelial Tissues\|epithelial tissues]]. It lines several [[Animals\|animal]] [[011/02/Organs\|organs]] such as the [[Small Intestine\|small intestine]], the fetal chorion, and the arachnoid membrane of the [[Humans\|human]] [[Brain\|brain]].

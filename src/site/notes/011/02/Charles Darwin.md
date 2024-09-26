@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/charles-darwin/","title":"Charles Darwin","tags":["BIOL422"],"noteIcon":"fallback","created":"2024-09-26T13:45:04.074-07:00","updated":"2024-09-26T15:15:37.785-07:00"}
+{"dg-publish":true,"permalink":"/011/02/charles-darwin/","title":"Charles Darwin","tags":["BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.074-07:00","updated":"2024-09-26T15:15:37.785-07:00"}
 ---
 
 **Charles Darwin** was a scientist and naturalist often credited as the “father” of [[011/02/Modern Evolutionary Theory\|Modern Evolutionary Theory]]. He lived in England in the mid-1800s, at a time when [[011/02/Great Chain of Being\|the conventions of Western Christianity]] were upheld by the ruling Church of England. Darwin originally planned to work in the clergy, having been raised in a religious family alongside the environment of England and growing up under the beliefs of the church. His contrasting studies on [[011/02/Evolution\|evolution]] came to fruition when he was appointed as a naturalist on Her Majesty’s Ship *The Beagle* (the HMS *Beagle*) from 1832 to 1836.

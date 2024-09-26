@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/leaf-blade/","tags":["BIOL412"],"noteIcon":"fallback","created":"2024-09-26T13:45:04.097-07:00","updated":"2024-09-26T15:20:25.541-07:00"}
+{"dg-publish":true,"permalink":"/011/02/leaf-blade/","tags":["BIOL412"],"noteIcon":"1","created":"2024-09-26T13:45:04.097-07:00","updated":"2024-09-26T15:20:25.541-07:00"}
 ---
 
 The **leaf blade** is the part of the [[011/02/Leaves\|leaf]] [[011/02/Organs\|organ]] that is flat and expanded; typically the part that is associated with leaves. In a two-part leaf structure, the blade attaches to the [[011/02/Petiole\|petiole]] of the leaf. However, in some cases, the blade is attached directly to the [[011/02/Stems\|stem]].

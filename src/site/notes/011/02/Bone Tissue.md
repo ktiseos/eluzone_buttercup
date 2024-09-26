@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/bone-tissue/","title":"Bone Tissue","tags":["BIOL422"],"noteIcon":"fallback","created":"2024-09-26T13:45:04.069-07:00","updated":"2024-09-26T15:03:40.999-07:00"}
+{"dg-publish":true,"permalink":"/011/02/bone-tissue/","title":"Bone Tissue","tags":["BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.069-07:00","updated":"2024-09-26T15:03:40.999-07:00"}
 ---
 
 **Bone tissue** is the dense, solid [[011/02/Connective Tissues\|connective tissue]] which makes up the majority of a [[Bone\|bone]]’s composition. Bone tissue expands into a ring-shaped structure called the [[Haversian System\|Haversian system]]. The matrix is made of groups of [[Osteon\|osteon]]: these are comprised of individual sections of [[Lamellae\|lamellae]] layers which surround a [[Haversian Canal\|Haversian canal]] and [[Lacunae\|lacunae]] openings that [[011/02/Specialization\|specialized]] [[Cells\|cells]] known as the [[Osteocytes\|osteocytes]] occupy. These osteons have space for blood vessels and nerves that connect to the bone.

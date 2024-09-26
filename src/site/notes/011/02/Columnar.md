@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/columnar/","title":"Columnar","tags":["BIOL422"],"noteIcon":"fallback","created":"2024-09-26T13:45:04.077-07:00","updated":"2024-09-26T15:16:57.334-07:00"}
+{"dg-publish":true,"permalink":"/011/02/columnar/","title":"Columnar","tags":["BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.077-07:00","updated":"2024-09-26T15:16:57.334-07:00"}
 ---
 
 A **columnar** [[Cells\|cell]] is an [[011/02/Epithelial Tissues\|epithelial tissue cell]] that is rectangular and longer on one axis than the other.

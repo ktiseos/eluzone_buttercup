@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/021/labphotosynthesis/","title":"BIOL400 Photosynthetic Lab Methods","noteIcon":"fallback","created":"2024-09-26T13:45:04.198-07:00","updated":"2024-09-26T15:48:00.050-07:00"}
+{"dg-publish":true,"permalink":"/021/labphotosynthesis/","title":"BIOL400 Photosynthetic Lab Methods","noteIcon":"1","created":"2024-09-26T13:45:04.198-07:00","updated":"2024-09-26T15:48:00.050-07:00"}
 ---
 
 Before the spectrophotometric experiment began, the spectrophotometer was warmed up for about 15 minutes. A pH 6.5 buffer solution was also prepared from phosphoric acid and sodium phosphate. Powdered 2,6-dichlorophenol-indolphenol (DCPIP) was dissolved in this solution, and a 0.2mM DCPIP stock solution was produced. This stock solution was made available at the beginning of the procedure as well as a pure pH 6.5 phosphate buffer solution. Additionally, microfuge tubes (1.5mL volume) with spinach leaf extract and acetone were prepared during the same lab day and supplied to researchers for the second part of the experiment.
