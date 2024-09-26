@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/acquired-characteristics/","title":"Acquired Characteristics","tags":["BIOL422"]}
+{"dg-publish":true,"permalink":"/011/02/acquired-characteristics/","title":"Acquired Characteristics","tags":["BIOL422"],"created":"2024-09-26T13:45:04.061-07:00","updated":"2024-09-26T15:02:20.186-07:00"}
 ---
 
 An **acquired characteristic** is a [[011/02/Evolutionary Traits\|trait]] which is developed over the course of an [[Organisms\|Organisms]] life outside of direct genetic [[Inheritance\|inheritance]]. Around 1809, Jean Baptiste Lamarck mistakenly believed this attribute to be the mechanism behind heritable [[011/02/Evolution\|evolution]], and it was a named aspect of his hypothesis of the [[011/02/Inheritance of Acquired Characteristics\|“Inheritance of Acquired Characteristics”]].

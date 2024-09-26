@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/leaves/","title":"Leaves","tags":["BIOL412"]}
+{"dg-publish":true,"permalink":"/011/02/leaves/","title":"Leaves","tags":["BIOL412"],"created":"2024-09-26T13:45:04.097-07:00","updated":"2024-09-26T15:20:31.093-07:00"}
 ---
 
 **Leaves** are [[011/02/Organs\|organs]] found in the [[011/02/Shoot System\|shoot system]] of all [[011/02/Vascular Plants\|vascular plants]]. Although their form and the existence of [[Secondary Functions\|secondary functions]] vary, they are primarily developed so that the plant can perform optimal [[Photosynthesis\|photosynthesis]]. Leaves are made from a [[011/02/Leaf Blade\|blade]] that maximizes the [[Surface Area\|surface area]] of sunlight absorbed and [[Veins\|veins]] which transport nutrients and water through [[Vascular Tissue\|vascular tissue]].

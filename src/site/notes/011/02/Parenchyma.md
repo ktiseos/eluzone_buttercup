@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/parenchyma/","title":"Parenchyma","tags":["BIOL412","BIOL422"]}
+{"dg-publish":true,"permalink":"/011/02/parenchyma/","title":"Parenchyma","tags":["BIOL412","BIOL422"],"created":"2024-09-26T13:45:04.111-07:00","updated":"2024-09-26T15:22:26.516-07:00"}
 ---
 
 **Parenchyma** is an ambiguate term for different forms of [[011/02/Tissues\|tissues]] in [[Botany\|botany]] and [[Zoology\|zoology]].

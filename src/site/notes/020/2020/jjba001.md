@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/020/2020/jjba001/","title":"raison d’etre","tags":["JJBA","Unfinished"]}
+{"dg-publish":true,"permalink":"/020/2020/jjba001/","title":"raison d’etre","tags":["JJBA","Unfinished"],"created":"2024-09-26T13:45:04.181-07:00","updated":"2024-09-26T15:43:47.973-07:00"}
 ---
 
 # day one: déjà vu.

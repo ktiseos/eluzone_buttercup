@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/020/2020/jshk001/","title":"if it’s between like and dislike, it’s neither","tags":["JSHK"]}
+{"dg-publish":true,"permalink":"/020/2020/jshk001/","title":"if it’s between like and dislike, it’s neither","tags":["JSHK"],"created":"2024-09-26T13:45:04.182-07:00","updated":"2024-09-26T15:43:51.486-07:00"}
 ---
 
 Akane’s loathing does not start slow and simple.

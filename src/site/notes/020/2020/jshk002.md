@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/020/2020/jshk002/","title":"talk of summertime","tags":["JSHK","Unfinished"]}
+{"dg-publish":true,"permalink":"/020/2020/jshk002/","title":"talk of summertime","tags":["JSHK","Unfinished"],"created":"2024-09-26T13:45:04.183-07:00","updated":"2024-09-26T15:43:53.657-07:00"}
 ---
 
 Kou’s childhood isn’t all that extraordinary, but the boy named Sousuke Mitsuba makes it feel electrifying.

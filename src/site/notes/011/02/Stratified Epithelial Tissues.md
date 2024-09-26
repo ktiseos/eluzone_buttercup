@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/stratified-epithelial-tissues/","title":"Stratified Epithelial Tissues","tags":["BIOL422"]}
+{"dg-publish":true,"permalink":"/011/02/stratified-epithelial-tissues/","title":"Stratified Epithelial Tissues","tags":["BIOL422"],"created":"2024-09-26T13:45:04.132-07:00","updated":"2024-09-26T15:26:06.828-07:00"}
 ---
 
 **Stratified epithelial tissues** are a type of [[011/02/Epithelial Tissues\|epithelial tissue]] where the [[011/02/Tissues\|tissue]] possesses multiple layers of [[Cells\|cells]]. The adjectival name is derived from the geological concept of [[Strata\|strata]] (*sg.* stratum).

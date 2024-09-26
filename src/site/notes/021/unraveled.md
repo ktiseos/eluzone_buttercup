@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/021/unraveled/","title":"HS002 Balzac and the Little Chinese Seamstress | Unraveled"}
+{"dg-publish":true,"permalink":"/021/unraveled/","title":"HS002 Balzac and the Little Chinese Seamstress | Unraveled","created":"2024-09-26T13:45:04.200-07:00","updated":"2024-09-26T15:48:10.801-07:00"}
 ---
 
 *I spent 4 weeks reading Balzac and the Little Chinese Seamstress so I could imitate a web series about overanalyzing games* | Unraveled (As Analyzed and Directed by a 15-Year Old)

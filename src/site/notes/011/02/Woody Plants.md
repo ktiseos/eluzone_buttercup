@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/woody-plants/","tags":["BIOL412"]}
+{"dg-publish":true,"permalink":"/011/02/woody-plants/","tags":["BIOL412"],"created":"2024-09-26T13:45:04.142-07:00","updated":"2024-09-26T15:27:27.178-07:00"}
 ---
 
 A **woody plant** is any [[011/02/Vascular Plants\|vascular plant]] that produces large amounts of [[Wood\|wood]] [[011/02/Tissues\|tissue]] during its lifetime. Woody plants produce this wood for protection and support as the result of [[Secondary Tissues\|secondary tissue]] growth. Both woody plants and [[011/02/Herbs\|herbs]], the latter being the matching [[Morphology\|morphological]] category of vascular plants, can produce wood, but woody plants will produce a considerable amount more. They are known for their hard, dense wood tissue which reinforces and protects the [[Tissue Systems\|tissue systems]] and thick layers created from [[Cork\|cork]] and wood.

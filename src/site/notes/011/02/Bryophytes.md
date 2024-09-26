@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/bryophytes/","title":"Bryophytes","tags":["BIOL412"]}
+{"dg-publish":true,"permalink":"/011/02/bryophytes/","title":"Bryophytes","tags":["BIOL412"],"created":"2024-09-26T13:45:04.070-07:00","updated":"2024-09-26T15:03:48.097-07:00"}
 ---
 
 **Bryophytes** are an informal, non-[[011/02/Taxonomy\|taxonomical]] classification of [[Land Plants\|land plants]]. They are one of the broadest classifications for land plants alongside [[011/02/Vascular Plants\|vascular plants]]. Bryophytes are also known as non-vascular plants, and they are differentiated from vascular plants via the absence of [[Vascular Tissue\|vascular tissue]].

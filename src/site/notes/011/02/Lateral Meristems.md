@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/lateral-meristems/","title":"Lateral Meristems","tags":["BIOL412"]}
+{"dg-publish":true,"permalink":"/011/02/lateral-meristems/","title":"Lateral Meristems","tags":["BIOL412"],"created":"2024-09-26T13:45:04.096-07:00","updated":"2024-09-26T15:20:21.486-07:00"}
 ---
 
 **Lateral meristems** are [[011/02/Meristems\|meristem]] groups found on the sides of the [[011/02/Root System\|root]] and [[011/02/Shoot System\|shoot systems]] of [[011/02/Vascular Plants\|vascular plants]]. They form ring-like strips around the [[011/02/Stems\|stem]], [[Branches\|branches]], and [[Roots\|roots]].

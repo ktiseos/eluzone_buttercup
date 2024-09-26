@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/taxonomy/","title":"Taxonomy","tags":["BIOL422"]}
+{"dg-publish":true,"permalink":"/011/02/taxonomy/","title":"Taxonomy","tags":["BIOL422"],"created":"2024-09-26T13:45:04.136-07:00","updated":"2024-09-26T15:26:36.615-07:00"}
 ---
 
 **Taxonomy** is the classification of [[Organisms\|organisms]] by categorizing them into groups and subgroups based on defining and shared [[011/02/Evolutionary Traits\|evolutionary characteristics]]. These organisms are identified as [[011/02/Taxa\|taxa]].

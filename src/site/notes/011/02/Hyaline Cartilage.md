@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/hyaline-cartilage/","title":"Hyaline Cartilage","tags":["BIOL422"]}
+{"dg-publish":true,"permalink":"/011/02/hyaline-cartilage/","title":"Hyaline Cartilage","tags":["BIOL422"],"created":"2024-09-26T13:45:04.093-07:00","updated":"2024-09-26T15:19:19.209-07:00"}
 ---
 
 **Hyaline cartilage** is a specific type of [[011/02/Cartilage\|cartilage]], a [[011/02/Connective Tissues\|connective tissue]]. It is known and named for its pearl-grey, glass or fog-like appearance derived from the composition of its [[011/02/Matrix\|matrix]].

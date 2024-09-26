@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/pinnate-leaves/","title":"Pinnately Compound Leaves","tags":["BIOL412"]}
+{"dg-publish":true,"permalink":"/011/02/pinnate-leaves/","title":"Pinnately Compound Leaves","tags":["BIOL412"],"created":"2024-09-26T13:45:04.115-07:00","updated":"2024-09-26T15:23:11.615-07:00"}
 ---
 
 A **pinnate leaf** is any [[011/02/Compound Leaves\|compound leaf]] where the [[Leaflets\|leaflets]] attach along the [[011/02/Petiole\|petiole]]. This attachment gives the leaf a “feather-like” shape. They are commonly known as “feather-leaved”; the leaflets are referred to frequently as pinnae; and the phenomenon of pinnate arrangement is known as **pinnation**.

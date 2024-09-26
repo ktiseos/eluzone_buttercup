@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/cartilage/","title":"Cartilage","tags":["BIOL422"]}
+{"dg-publish":true,"permalink":"/011/02/cartilage/","title":"Cartilage","tags":["BIOL422"],"created":"2024-09-26T13:45:04.072-07:00","updated":"2024-09-26T15:15:22.075-07:00"}
 ---
 
 **Cartilage** is a subcategory of [[011/02/Connective Tissues\|connective tissues]]. They are known for being partially flexible, made of [[Collagen\|collagenous]] and sometimes other [[011/02/Proteinaceous Fibers\|proteinaceous fibers]], and a [[Chondrin\|chondrin]] [[011/02/Ground Substance\|ground substance]]. All cartilaginous [[011/02/Tissues\|tissues]] have chondrocyte cells.

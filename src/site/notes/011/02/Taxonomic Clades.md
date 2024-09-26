@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/taxonomic-clades/","title":"Taxonomic Clades","tags":["BIOL422"]}
+{"dg-publish":true,"permalink":"/011/02/taxonomic-clades/","title":"Taxonomic Clades","tags":["BIOL422"],"created":"2024-09-26T13:45:04.135-07:00","updated":"2024-09-26T15:26:30.319-07:00"}
 ---
 
 A **clade** is a collection of [[011/02/Taxonomy\|taxa]] who share a collective [[011/02/Taxonomy\|taxonomic]] ancestor. These collections are also referred to as **phyletic groups** as they are used in [[011/02/Phylogenetics\|phylogeny]] (hence their name, *phyl-*, rather than in reference to a *[[Phyla\|phylum]]*) to trace [[Common Ancestor\|common ancestors]], [[011/02/Evolutionary Traits\|traits]], and evolutionary history.

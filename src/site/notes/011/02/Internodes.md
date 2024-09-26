@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/internodes/","title":"Internodes","tags":["BIOL412"]}
+{"dg-publish":true,"permalink":"/011/02/internodes/","title":"Internodes","tags":["BIOL412"],"created":"2024-09-26T13:45:04.096-07:00","updated":"2024-09-26T15:20:17.130-07:00"}
 ---
 
 An **internode** is any region of the [[011/02/Stems\|stem]] or [[Roots\|root]] of a [[011/02/Vascular Plants\|vascular plant]] that is between two [[011/02/Plant Nodes\|nodes]].

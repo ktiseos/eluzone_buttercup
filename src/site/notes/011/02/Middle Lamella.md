@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/middle-lamella/","title":"Middle Lamella","tags":["BIOL412"]}
+{"dg-publish":true,"permalink":"/011/02/middle-lamella/","title":"Middle Lamella","tags":["BIOL412"],"created":"2024-09-26T13:45:04.104-07:00","updated":"2024-09-26T15:21:21.818-07:00"}
 ---
 
 The **middle lamella** is the outermost [[Cell Walls\|cell wall]] layer of plant cells. It is the first and [[011/02/Primary Cell Wall\|primary cell wall]] developed in plant cells; all plant cells possess it through their death.
