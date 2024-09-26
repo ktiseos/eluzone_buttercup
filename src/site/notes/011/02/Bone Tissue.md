@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/011/02/bone-tissue/","title":"Bone Tissue","tags":["BIOL422"]}
+---
+
+**Bone tissue** is the dense, solid [[011/02/Connective Tissues\|connective tissue]] which makes up the majority of a [[Bone\|bone]]’s composition. Bone tissue expands into a ring-shaped structure called the [[Haversian System\|Haversian system]]. The matrix is made of groups of [[Osteon\|osteon]]: these are comprised of individual sections of [[Lamellae\|lamellae]] layers which surround a [[Haversian Canal\|Haversian canal]] and [[Lacunae\|lacunae]] openings that [[011/02/Specialization\|specialized]] [[Cells\|cells]] known as the [[Osteocytes\|osteocytes]] occupy. These osteons have space for blood vessels and nerves that connect to the bone.
+
+Bone tissue has a solid [[011/02/Matrix\|matrix]] compared to the [[Chondrin\|chondrin]] found in [[011/02/Cartilage\|cartilage]], which is semi-solid. It is mainly made from [[Ossein\|ossein]], a [[011/02/Proteinaceous Fibers\|proteinaceous fiber]] made mostly of [[Collagen\|collagen]], and is otherwise made of a mineral [[011/02/Ground Substance\|ground substance]]. The matrix’s solidity blocks any materials from [[Diffusion\|diffusing]] through. Instead, materials are transported through the [[Cytoplasm\|cytoplasm]] present in the tissue’s [[Canaliculi\|canaliculi]].
+
+Through a microscope, bone tissue will primarily appear ring-like due to the lamellae. The space in between these lamellae where the osteocyte are present may appear spider-like, especially if material is trapped within the canals, due to the thin, hollow canaliculi.
