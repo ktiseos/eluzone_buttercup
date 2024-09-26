@@ -1,0 +1,185 @@
+---
+{"dg-publish":true,"permalink":"/020/2020/jshk003/","title":"nothing is certain when you’re about","tags":["JSHK"]}
+---
+
+The standing ovation that the cast receives reverberates throughout the room, so loud and so clear that it paints itself a picture in Akane’s mind. It’s as intricate as the ivory tree still on stage, with veins made of golden foil and paint streaked across its bark and roots. Still, as their applause dies down, the crowd cheering and the people who yelled their names burn into his mind, leaving a memory stronger than any detail on the ivory tree. The applause is more than enough to make his heart swell, and the joy that rushes through him as he nods his head and watches the curtain close is perhaps the greatest of emotions that he’s ever felt in a while.
+
+It was always an accident, how the dedicated student council vice president fell headfirst into theater. It started with Aoi’s talks of Kamome’s Romeo and Juliet, when Akane practiced so hard in-between council meetings and homework that he nearly made himself sick before auditions. In some miracle and the fact that so few took the audition seriously, Akane wound up the lead, reciting every line by memory and every action by his own reflexes. And then—
+
+Then, by the time he had gotten out of the stuffy, oversized costume, Aoi had already left the auditorium, and the school grounds, too. But he’d been swarmed by students he barely knew, and before he could blink, he’d been thrown into one performance after another, one role contrary to its predecessor. By the time he’d amassed a stack of scripts tall enough to rival his paperwork, he’d realized ‘too deep in’ was… an _understatement._
+
+It’d thrown off his schedule completely. He would use the spare fifteen minutes to get ready, or to finish a last assignment; he wouldn’t fawn over Aoi when he lacked the time to do so. But she still took every confession with a nod and a rehearsed denial, even as their frequency grew smaller and smaller and his passion waned more and more.
+
+But, for once, none of that… _matters._ Because now, the picture of a dimly-lit room with rows full of strangers and acquaintances is the only thing that fills his head, and it’s a memory more heart-pounding and astonishing than any other.
+
+**“—And, you know what happened then?”** He ends up calling, minutes later, once he’s rushed offstage and found his phone with the rest of his belongings. He grips the phone, tight enough to squeeze the case, and doesn’t notice a thing in his elation. **“During the bows, everyone got up to applaud!** **_Everyone!_** **”**
+
+**“Oh?”** Teru replies from the other end. Akane can see the smile on his face even when he’s not in front of him. **“It must’ve been a wonderful show, then.”**
+
+**“It** **_was!_** **Really sucks for you that you didn’t see it, huh? Now everyone’s going to talk about it at school and you won’t understand anything they say!”**
+
+**“Is that so?”**
+
+**“Do you think I’d lie to you, you idiot?”** he snaps, but he’s so giddy with laughter that it’s not as serious an insult as always. **“It’s this stupid,** **_ridiculous_** **play that barely made sense to me the first time I read it—of course you’re not going to get it!”**
+
+**“Isn’t that just because you’re bad at English and Literature?”**
+
+**“Oh, shut up, will you?”** Akane laughs again, his voice soaring. If his castmates are mad at him for yelling as he throws on his coat and continues, he’s far too happy to care. **“No, it’s just because the whole play’s about two characters who do nothing. That’s what the playwright said!”**
+
+He takes his charger from the counter, drops it into his bag, and does one last once-over for whatever he’s missed. The phone still remains in his hand, pressed up to his ear as he talks. **“None of it makes sense because nothing ever gets done, and all the characters do is talk. There’s hundreds of interpretations of it, but no one ever knew the truth because the playwright was so cryptic—”**
+
+The bag, now full, slides onto his shoulder with a huff. **“—And now they definitely won’t because he’s dead.”**
+
+**“Hm,”** Teru responds, and then he adds, **“That’s…”**
+
+**“That’s what?”** Akane asks. He only hears the wind rustle through the speakers, and assumes Teru’s shaking his head.
+
+**“It’s nothing,”** he pauses. The wind continues. Akane makes his way towards the door, but he stops by some of the remaining crew first to wave goodbye.
+
+**“You know,”** Teru edges in as he gives a last wave, tone unfortunately sly, **“Aoi. Did you ever read over any of the forms you were assigned today?”**
+
+**“** **_Yes,_** **I did,”** Akane leans back next to the door frame and lies, because he’s gotten better at acting and he’s far too exhausted to put up with a lecture after sundown while Teru’s lounging around at home. **“I read all of them. What kind of a vice president would I be if I didn’t?”**
+
+**“A wise one,”** Teru coughs.
+
+**“Really now?”**
+
+**“—** **_Anyways,_** **”** he continues, and Akane throws a hand in the air whilst pushing the dressing room door open with the other. **“Take a break tomorrow. I’ll cover for you then.”**
+
+Akane raises an eyebrow. **“Are you… sure?”**
+
+**“Of course. Then you can tell me about everything else that happened during the show. It’d be a nice way to spend the afternoon, wouldn’t it?”**
+
+**“Sure it would,”** he rolls his eyes and walks faster out of the theater, even if his heart leaps over fences at the idea.
+
+**“Mm,”** and Akane can see him nodding with that, **“You didn’t even tell me the title when you called. What is it, again?”**
+
+Akane groans as he pushes open a glass door, and the wind hits him so hard that he starts to shiver. **“Really? You’d know it if you came and watched, you idiot. It’s called** **_Waiting For_** **—”**
+
+He stops as the door swings behind him. Not because he’s shivering; he would love to lie and say it is, but as he walks out to the front of the calmed theater, there is definitely something that shouldn’t be there. It’s not the flickering lights or the masses of cars, though. The whole _‘something’_ that shouldn’t be there is someone: a boy with hair calmer than his brother’s that seems gold under an unfailing streetlamp. He’s standing alone, and is, for once, out of his school uniform, dressed instead in a thin black jacket with the sleeves rolled up to his elbows. One of his hands is folded behind his back, but the other is holding a phone up to his ear, listening to the wind around him echo through the speakers.
+
+**“—Minamoto-senpai,”** Akane exhales. His breath leaves him as he does, and his phone almost drops from his hand.
+
+**“Really?”** The phone call ends, and Teru slips his phone back into his pocket, in the same area where a sword and sheath should be attached. There’s a smile on his face; maybe if Teru was a warmer person more than he was a jerk, Akane would’ve immediately believe it was fully genuine. He doesn’t, though, not when Teru adds, with a laugh seconds from slipping, **“I think I remember they were** **_Waiting for_** **Godot, not me.”**
+
+_If Teru’s trying to be clever and funny,_ Akane thinks, _he is._ The problem is that it’s Teru—Teru Minamoto, who has scarcely cast a kind gaze towards him, who is a close acquaintance but nothing more than that, who has somehow never been pushed onto wit’s end to strike one final blow—and in a wave of bewilderment and anger, Akane spits out this:
+
+**“Why are you here?”**
+
+Teru looks at him from under the streetlight, eyes wide and blank like the morning sky, and freezes. A frown forms, matching raised eyebrows in the same shape.
+
+**“What do you mean?”**
+
+**“You’re—”** Akane sputters— **“** **_here._** **You’re here, outside of this—theater, and you’re just** **_standing around in the middle of the night._** **I—”**
+
+_I wish you didn’t look like you’d been standing here for a while,_ he wants to say, but he doesn’t. **“** **_Why?_** **”**
+
+**“…Isn’t it obvious? I was watching the show.”**
+
+**“You were** **_watching?_** **”**
+
+**“Why not?”** Teru shrugs.
+
+**“Because—** **_what?_** **Because, I don’t know, you didn’t have to?”**
+
+**“…Couldn’t I just go if I wanted to?”**
+
+**“That’s—that’s not—you’re missing the point!”** Akane definitely isn’t starting to burn up in his coat, and he definitely still has a point to make. **“You just—where did you learn about this? There weren’t any posters up, and I didn’t say anything about—”**
+
+**“There** **_was_** **a poster,”** Teru hums, **“In the middle school building. And I don’t need to rely on you for information all the time, do I?”**
+
+**“…You don’t,”** Akane grumbles. **“Okay, asshole—you win. So, what? If you’re going to make fun of me, then you better start now or I’ll leave.”**
+
+And Teru doesn’t say anything—just stares at him in silence like his brother would right before he would use those far too Minamoto-esque glossy puppy eyes—and Akane turns to leave.
+
+**“Ak—** **_Aoi._** **”** In seconds, there’s a hand pinching loose fabric from his coat, grip just enough to stop him from moving without hurting him. Ill intent or not, it’s a loose hold—what else to expect when you’re grasping onto almost nothing?—and Akane pulls his arm out of it with ease.
+
+It doesn’t stop him from turning around anyways to face him, though. He knows what he should expect after he’s stopped: Teru will tease him, just as he has since the third year of middle school, and he’ll kick his ass without a sword in record time because he caught onto his lie. When he does turn around, however, he sees all but that: in fact, Teru’s hand is still clutching the air where his coat had once been, and he is still frozen with one foot forward, and Akane pauses mid-pivot and it feels like time has somehow stopped.
+
+And then Teru looks down at him, lets Akane lift his gaze to match his own, and melts the ice around time himself.
+
+**“I came to watch you.”** His hand slips behind his back once more, interlacing with the other. **“It was a wonderful show, Aoi. I promise.”**
+
+**“…Really,”** Akane starts. Suspicion tries to make the word a question, yet the way his heart flips and squeezes at the remark makes him feel too sick to ask it. If it’s meant to be a question, though, the very tone that Teru is using makes the answer obvious. Akane’s only ever heard that candor a few times, and seen it partnered with a tenuous smile and a warm gaze even less. Of all the times Akane’s ever seen both, it’s never been outside of the student council room; no matter how many conversations Teru has to go through, he’s only ever observed it when they’re alone, when golden light has sunk from the sky and filled the halls they often walk through.
+
+**“Really,”** Teru says, still smiling, still bearing that same honeyed tone, and Akane stops himself from running to hurl. **“I’d say it was your best show yet.”**
+
+**“When you put it like that, you sound like you’ve watched every other one,”** Akane forces out a laugh, and Teru doesn’t speak, just hums a few notes.
+
+Wait.
+
+**“You’re joking,”** Akane’s breath slips from his throat. **“You haven’t actually—no way,”** he practically whispers. His breath twists as it returns to his throat and slips to his stomach and Akane feels _dizzy_ from the growing smile on his own face. **“You’ve been watching** **_all_** **of them.”**
+
+**“And none of them were as well done as tonight’s was,”** Teru sighs, but it sounds nothing like the exasperation they once shared towards one another before. **“Is that so hard to understand?”**
+
+**“It’s—not,”** Akane pauses, catching his breath and steadying it. **“I just… you, of** **_all_** **people, coming to watch? I didn’t think you liked something like this—and—and it was supposed to be busy. Ao-chan couldn’t even make it tonight.”**
+
+**“I set some time aside,”** Teru shrugs. The wind rustles behind him before he continues, **“And Kou made dinner early, so there weren’t any problems tonight.”**
+
+**“You’re ridiculous.”**
+
+**“Is that the word you’d use to describe this?”**
+
+**“You know what I mean,”** Akane reaches to hit his forearm, but he steps back before he can.
+
+**“Maybe I do.”** The wind rustles again, and Teru freezes, still leaning on one foot.
+
+**“Oh—before I forget. I bought this for you.”**
+
+He leans back onto his forward foot and the wind crinkles—and all at once, the streetlight shines over more than their heads and the pavement. Both of Teru’s hands are pushed in front of his chest, bundling folds of white wrapping paper together. Between his hands and the paper, with green peeking from the openings in the form of stems and leaves, there’s one, two—at least a dozen flowers, so close together that they could explode if anything moved out of its place. There are red roses and golden flowers of another kind scattered within the papers, with white stamens peeking in-between. Akane stares at them, lips parted and eyes wide open and eyebrows scrunched right over them, and for once, not a single word comes out of his mouth. He’s only silent as Teru leaves the bouquet in the air; he’s speechless and nothing more.
+
+**“…Are you going to take them?”** Teru breaks the silence, holding onto the bouquet tighter. **“You don’t have to, but—”**
+
+**“I’ll do it,”** Akane sputters, half on impulse and half because he wants to answer that he will. **“I mean. I’ll take them. I just…”**
+
+His hands lift and reach around the paper, bent and shaky; they brush against Teru’s as they struggle to grab on, and Akane isn’t sure if the warmth of the other’s hands in the cold air steadies his own or makes him feel even shakier.
+
+**“I’ve never gotten them before,”** Akane clutches the flowers tight and mumbles. There’s a traitorous shade of red blooming on his cheeks, strong enough to compare to the roses and his hair inches away; when he realizes from the warmth on his cheeks, he bites his lip and sinks his head into the flowers to hide it. **“I’ve given them before, but I didn’t think I’d…”**
+
+He’s dreamt of it a thousand times before: Ao-chan giving a rose from the school gardens in return. That dream has never come close to coming true: Aoi has never done that, and Akane knows now that she never will. But he’s never dreamt of something like this, where anyone else but Aoi gives any flower, let alone a bouquet and let alone a bouquet of roses—and yet that is what’s become reality instead.
+
+**“You deserve them, you know. I think that’s the largest audience I’ve seen.”**
+
+**“Hm,”** Akane shrugs, gripping the paper tighter, **“I’ve seen bigger.”**
+
+**“I meant for** **_you,_** **obviously,”** he sighs. Akane thinks then that Teru might let go of the bouquet completely, but he doesn’t; his hold loosens, but it remains curled around the paper, still barely touching the knuckles of Akane’s hands. And Akane…
+
+Akane doesn’t push them away. His hands slide further around the paper and under Teru’s own, and even with his head between the petals he can feel Teru freeze, his gaze pointed at the bouquet. His hands close tighter around his, and when they do, Akane doesn’t move away, only steps forward.
+
+They’re so close that the bouquet is the only thing separating them. The streetlight tints them in golds and oranges, and Akane wonders if this is meant to look like a scene from a play, even without the choreography and the off center lighting and how shaky Akane feels with every line or action. And as weird as it should feel, how the night sky darkens everything else around them and the flowers remain hardly bruised and how his coat lifts and moves with the wind, Akane doesn’t… mind it. Instead, he looks up and beams at him, without any bitterness or cruelty in his smile, and manages to find the strength to say this:
+
+**“Thank you.”**
+
+Maybe it’s the first time that he’s ever needed to say it to him in a kind manner; maybe it isn’t and he’s forgetting. Whichever one it is, Teru shakes his head and says, **“It’s nothing.”**
+
+And then, he lets go.
+
+**“Well, shall we go?”** Teru looks away, fixing his coat instead of looking back. Akane stares at him, his focus still on the echoes of warmth on his hands.
+
+**“Go where?”**  
+
+**“…Home?”** Teru raises an eyebrow. **“Where else would we go?”**
+
+**“Oh,”** Akane blinks, **“Right. But—”**
+
+**“I’ll walk with you. It’s not that far, anyways.”**
+
+**“Are you sure?”**
+
+**“I don’t see why not. What, are you worried about me?”**
+
+**“No, I’m not,”** Akane groans, but he doesn’t turn to leave.
+
+Teru cants his head. **“Then what are you waiting for?”**  
+
+**“Certainly not the night.”**
+
+**“That’s for sure,”** Teru chuckles, and when he looks towards him, he stretches out his hand.
+
+**“Well? Shall we go?”**
+
+Akane looks up between him and his hand, and he reaches out a hand to grab on.
+
+**“Sure,”** he sighs, though the smile on his face betrays him. **“Let’s go.”**
+
+They turn and walk out of the streetlight, and its light flickers and dies behind them. And even though the memory of the standing ovation nor his lie has been forgotten, Akane might remember this as the greatest memory of the night.

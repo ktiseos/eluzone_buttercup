@@ -1,0 +1,107 @@
+---
+{"dg-publish":true,"permalink":"/021/unraveled/","title":"HS002 Balzac and the Little Chinese Seamstress | Unraveled"}
+---
+
+*I spent 4 weeks reading Balzac and the Little Chinese Seamstress so I could imitate a web series about overanalyzing games* | Unraveled (As Analyzed and Directed by a 15-Year Old)
+---
+“‘_C'est pis!_’”
+
+A young man yells as he walks into a room with black walls. In his hands, covered partially by the sleeves of the man’s yellow sweater, is a small, blue book opened partway. He takes a deep breath and continues, “‘_cria Minoret-Levrault, exaspéré par l'observation de sa bavarde cousine._’”
+
+The camera zooms in as he looks towards it. “What a line. I can really start to see why the characters from my required reading fell in love with _Ursule Mirouët_. I mean, I’ve never taken a French class before, but you only need Google Translate and a smart mind to really dig into it.” He clenches his left fist and snaps the book shut. “Even strangers can hear how he yells his aggravation, or how his cousin must be underestimating the situation. And so many people who watch this video instead of reading this book will have a question looming over their heads. Just _what_ is worse: Minoret-Levrault’s situation or my terrible bastardization of French?”
+
+“This is the sort of suspense and emotion that keeps some people going if they read literature. The characters are so passionate, so…” The boy shakes his left hand. “Dramatic. The whole book is just very… effective*.* But what does that mean for its readers?”
+
+He shrugs and relaxes. “Well, some people will read this and go, ‘Eh.’ Some people will be enraged at the content and they’ll throw it into a fire like an auto-da-fé. Or—” he pauses, holding his left index finger in the air as he walks to the side. “Or—and just hear me out—”
+
+He reaches a table on the far left side of the room, and suddenly hurls the book like a disc frisbee offscreen. “Or, if their names sound like ‘Ma’ or ‘Luo,’ they can turn into _assholes._”
+
+The book slams into a wall and the floor with a loud thud. The boy winces and turns away.
+
+“Now, how does that happen? How can a book influence reality? I don’t think we’ve ever seen a popular example of that in any writing, especially in recent times.” An array of news articles about the Mueller Report begins to appear on screen, but is swatted away. “That’s why I’m here today. I’m going to answer a question so eternal, so profound that it will change your life.”
+
+“Uh, you’re not,” a voice interjects offscreen. The boy begins to frown.
+
+“…I’m not?”
+
+“Yeah, you’re not.”
+
+The camera cuts to the boy some time later, his hands clasped together as he smiles.
+
+“Okay, so I’m actually going to answer a question so minute and specific that you probably won’t be affected by it. But—” he stops and throws out his hands. “It’s an important question! It’s so important that my English teacher has been asking two classes to write an essay on it for three years, which is a lot longer than I’ve been in high school. And that question—drumroll please—is ‘How did this book among others affect three nice, sweet kids in a few months?’”
+
+“Now, you may have a few questions, especially if you’re not from my class. ‘Who’s the other kid?’ Well, she’s called the ‘Little Chinese Seamstress,’ and the book never gives her a name. Additionally, because I said ‘the book,’ you might be wondering, ‘What do you mean by the book?’ And the answer is this.”
+
+The camera zooms out as the boy picks up a different book. It is dark brown, with a spine covered in bright colors and saturated flowers.
+
+“The three kids—Ma, Luo, and the Seamstress—were all written into Dai Sijie’s semi-autobiographical book, ‘_Balzac and the Little Chinese Seamstress._’ They are the kids that are chiefly influenced during the story, and they’re the only ones we can study. Now, _why?_” He taps his right temple with a grin. “Why, not only are they the only ones who seem to have been emotionally affected by _Ursule Mirouët_, but that’s also what’s required in my English essay.”
+
+“Because it’s that required reading that I mentioned earlier, I’ve also read it enough times to tell you my answer before you’ve even watched the rest of the video, in perfect order, or in the way of how I’ll be answering these.” He holds up three fingers. “One! Ma becomes a creative storyteller who blindly follows Western ideals. Two! The Little Chinese Seamstress becomes an individualistic, perceptive person with her own identity and a newfound sense of selfishness that propels her in her future endeavors. And _three!_ Luo becomes a haughty, entitled jerk who uses Western literature to incite new passions of love until they both betray him. What do all of these arcs have in common?”
+
+The boy pauses before continuing. “That’s right: no matter how creative or lovelorn Ma becomes, how independent and aware the Seamstress is at the end of the story, or how entitled Luo continues to think he is, all three of Dai Sijie’s protagonists turn into assholes.”
+
+“You may be wondering: ‘Nahi, how exactly are you going to show this on screen?’ Well, the answer to that is simple. Behind me, I have an open black wall, and I’m going to use it to pin up several strips of paper. These’ll have quotes on them to refer back to, because anyone watching through the camera will definitely be able to read them while I speak in front of them, and I won’t have to reiterate the quotes unless I open my own book to read them. Now, in a few seconds, there’ll be a smash cut, and you’ll see a summary of my next topic sentences and a few quotes below each. In three, two, and one.”
+
+The boy snaps, but the camera continues to record him. He bites his lip and turns away from the camera before it switches to a full view of him in front of the wall. Three names are listed at the top of the wall: from left to right, they are ‘Ma,’ ‘Luo,’ and ‘Seamstress.’ Under each, a statements is glued on the wall, and a list of quotes in smaller font are tacked under each. The boy walks to the leftmost side and jumps to point at the name ‘Ma.’
+
+“Let’s start with Ma, who, as I said, became a colorful storyteller influenced by Western ideas. He’s the narrator of the story, which is initially very contrary to him as a person. Even though the story sounds like it’s been written in retrospect, Ma can’t help but start sounding like a virtual assistant. From pages three to seven, Ma gives us a very direct recollection of events.”
+
+The boy puts on an exhausted expression and droops away from the wall as he speaks. “He tells us, ‘[My and Luo’s] clothes, faces and hair were streaked with mud. We looked like pathetic little reactionary soldiers from a propaganda film after their capture by a horde of Communist farm workers’ (4).” As he finishes, he perks back up and leans against the wall, arms crossed.
+
+“All he says is that he was covered in mud. How creative is the simile succeeding that?” He snaps his fingers. “If you said, ‘not at all,’ then you’re correct! All he does is compare himself to a nondescript character from a Communist propaganda film. Why isn’t this creative?”
+
+On the screen, a Wikipedia article of the Cultural Revolution flashes by and disappears. “It’s because he’s been living in the Cultural Revolution for most of his childhood. Communist propaganda is one of the only pieces of media that he’s been allowed to interact with. All he’s making are lackluster descriptions without explaining them or giving them any flavor.”
+
+“But,” the boy smiles, “by the end of the novel, Ma manages to describe the arson of every novel in lengthy prose. He talks for two pages about how ‘the match spluttered,’ how the ‘poor somnambulant French girl was roused by the conflagration,’ and how ‘matches made a funeral pyre’ (176-177) out of three Western books.” The screen is tinted in orange before reverting to basic lighting. “Those descriptions aren’t basic! Even the word ‘spluttered’ is different from saying it ‘lit up’ or ‘burned.’ He sounds like he read two dictionaries from A to Z before speaking, because ‘conflagration’ and ‘funeral pyre’ are so much more vivid than two long sentences about mud.”
+
+“So, after reading Western literature, Ma has become a more descriptive storyteller. We can prove this by looking at his evolving narration of the story,” he nods, and points to the quotes that were just explained.
+
+“But what about the other half of the argument?” the boy’s arm lowers. “How can Ma ‘blindly follow Western ideals?’ Well, this trait is shown most prominently after he reads _Jean-Christophe_.” A set of ten stock photos resembling books are superimposed on the screen. “This is the first of many lengthy French novels about the life and growth of a German musician who travels Europe and meets many people who give him a hard time.”
+
+“At first, Ma reads this because he is also a musician. However, once he does, he clings to the novel. When he reads _Jean-Christophe_, he thinks that ‘his fierce individualism utterly untainted by malice… was a salutary revelation’ (110). Then he begins to emulate it: on page 111, he and Luo gift and sign a selection of novels with their own names. In an act of anti-communism, they have claimed something as their own possession and no one else’s.”
+
+The boy points back to the remaining quote in the column. “But not only does he adopt individualism. Ma adopts the Western ideas of love and lust. When he crosses a ledge three pages later, Ma remembers _Jean-Christophe_ and realizes, ‘how could I die now, without having known love or sex… as he had?’ (114) But he has never shown interest in either before! His best friend even started dating someone, and even though he first felt a little jealous, he never acted on this. Now, his newfound ideas of love and sex motivate him to stay alive!” He points away from the quotes and holds up two fingers. “This is the second part to how Ma is affected by literature: once he reads it, he takes Western ideas of individualism and romance and starts to use them for himself.”
+
+His hands fall to his hips. “So we’ve talked about Ma. But what about the other two? I still have to discuss them.”
+
+“Let’s move on to the Little Chinese Seamstress next. That’s a little long, so I’m just gonna keep calling her the Seamstress, like I’ve got on the top of this column.” The boy gestures to the column before continuing.
+
+“The Seamstress manages to turn into her own person, grow aware of the world around her, and become incredibly selfish in her pursuits of both. She really has one of the deepest revelations of the trio. Maybe it’s because as a rural villager, she’s never been exposed to these ideas before, but her growth is so great that Dai Sijie had to keep most of it offscreen.”
+
+The camera zooms in. The boy pauses and shrugs with a grimace on his face. Seconds later, the camera cuts.
+
+“The best place to find the result of Balzacian literature on the Seamstress is really the end of the book, where the narrator actually talks about the Seamstress in detail.” The boy flips to the end of his book. “In the last chapter of the book, the Seamstress decides to ‘be like a city girl’ (178). Ma gets an entire page after that to talk about how she makes herself a brassiere, customizes a ‘smart,’ city-style jacket, and changes her hairstyle all to emulate a city girl. This customization is a direct action against communism. She doesn’t just make and personalize material clothing to her own tastes! She wears and flaunts it! Like the other women on the mountain, who request her father to decorate their clothes with a five-pointed anchor and ‘embroider tiny anchors on buttons with gold thread’ (127), the Seamstress wears an individualistic outfit that defies the ideas of uniformity and capitalistic consumerism. She starts to become a different person. She separates from the masses of villagers who survive under the Cultural Revolution through a new identity, and that’s what makes her a new person.”
+
+The boy continues as the camera zooms in. “But it doesn’t stop there. I mean, if it did, then we wouldn’t have gotten that last chapter! Throughout the story, we get all of these hints that the Seamstress is a lot smarter than the narrative would have us think. Ma and Luo may view her as an uncivilized mountain girl, but she’s incredibly insightful. Her entire plan to leave for the city is swimming in brilliance. Her father tells us she ‘applied to the commune leader behind his back to obtain the necessary forms’ and didn’t tell her until the previous evening that she wanted to ‘change her life and try her chances in the city’ (180).”
+
+“Does she tell anyone else about either of those plans?” The camera zooms in further and he shakes his head quickly. “Nope! This is the first time that Ma and Luo ever hear about it. They even had to hear it from her father, who heard one evening ago! That’s smart and mindful of the boys’ reaction, especially considering that both of them love her, but it’s also inherently selfish. She doesn’t wait for either of them to be freed from re-education: she leaves on her own for her own goals.”
+
+“Is this a bad thing?” The boy turns to the quotes, then looks back at the camera with one finger in the air. “Not entirely, no! It ties into her individuality. She isn’t tied down by the boys, and she proves it when she breaks away from them and the village for her own self with a plan that considers them and their reactions. Balzacian literature gave her awareness into the thoughts of others, and by making her an individual with her own desires, made her selfish through wanting to fulfill them no matter what.”
+
+The boy walks over to the last column with a smirk. “Now, the last person that we haven’t talked about is Luo, Ma’s best friend. Luo takes a different path than Ma: not only does he become a self-righteous jerk, but a passionate one, at least until the books cause him despair.”
+
+“Hoo, boy, that’s—” the boy stops and stares back at the wall, where the statement has been pasted on a long, white strip of copy paper. “That’s a pretty unfortunate sentence, there. But do I feel pity for him?”
+
+He turns back to the camera and scoffs. “Not really, no!”
+
+“I mean,” he opens his book in his left hand, “Luo is arguably the most apparent jerk of all three of the protagonists. When he and Ma steal Four-Eyes’ literature, what’s the first thing he does? Is it to take one book and read it? Is it to read that book with Ma, his best friend?”
+
+The boy slams the wall with his palm. “Absolutely not, it’s to selfishly declare that he wants to read all of them and then ‘transform the Little Seamstress’ so that she’s ‘never a simple mountain girl again’ (100).”
+
+The boy pauses, then throws his hands out.“Seriously? It’s already enough that he thinks that stealing Western books from the city gives him more civility and education than a rural villager, even though his own education was filled with agriculture and propaganda!” He taps his head before resting his hand on his hip. “Luo has this entitled idea in his head that Western literature will fill in for the Seamstress’s education and make her as civilized as him. Can he be any more of an asshole than that?”
+
+“Apparently, yes, he can!” The boy throws his hand up in the air, and the pages of his book fly to another page. “He never shows any signs of ceasing his patronage, even as the book progresses. When Luo tells his story, he says, ‘She used to swim the way peasants do… Before I showed her how to do the breaststroke she could only do the doggy paddle’ (139).”
+
+“Are you kidding me?” He groans. “Does this boy ever consider how arrogant he’s being? Not only has literature prompted him to educate the Seamstress through its text, but through lessons on topics as different from it as swimming. He teaches her to be more civilized so that he can admire and respect her for being ‘refined’ in his eyes.”
+
+“Does anyone ever stop him? Absolutely not! By the end of the book, Luo has been so blinded in his teachings that he doesn’t even notice the Seamstress is developing her own identity and breaking away from him. All he does is stare with ‘the happiness of an artist contemplating his finished creation’ and tell Ma, ‘All that time we spent reading to her has certainly paid off’ (180). Ma is wholly complicit in Luo’s plan to re-educate the Seamstress. His agreement allows Luo to continue being a presumptuous jerk and to persistently force his Western, ‘civilized’ viewpoints onto the Seamstress, all with the help of Western literature.”
+
+The boy raises his left hand like a stop sign. “But it doesn’t end there. Even if Ma is complicit, Luo still gets his comeuppance. He never discovers that the Seamstress plans to leave until it’s too late! Ma realizes after the events that they were ‘too wrapped up in [themselves] to notice’ and had ‘failed to grasp the essence of the novels [they] had read’ (180). Luo doesn’t care to look further than what he directly says and orders the Seamstress to do. He only wants her to look and act like a civilized girl in his eyes. It’s exactly why he never sees the true effects of teaching Balzacian literature until his pupil echoes it by leaving to find the city for herself! When she leaves, all Luo can do is grieve and burn the books that caused her to become her own individual and leave. The Western literature Luo finds affects him by emphasizing his arrogance, then follows up by taking it away and leaving him heartbroken and in despair.”
+
+The boy walks away from the quotes and back to the center of the screen. He turns around and gestures to the wall. “So, what have all three of these overarching statements and all 17 quotes from _Balzac and the Little Chinese Seamstress_ told us about these characters and how they’ve been affected?” He puts up one finger. “Ma’s side of the story clearly shows that literature made him a better storyteller. It also showed how he adopted and attached to certain Western ideas that pushed him forward.” He puts up a second finger on the same hand. “The Seamstress slowly becomes a unique individual with Western beliefs, which ultimately cause her to selfishly leave everyone else behind for her own goals.” He puts up a third finger. “Luo, the last of the trio, shoves his entitled ideas of civility onto others until it blows up in his face and breaks his heart. Altogether…”
+
+The boy sighs and crosses his arms. “Altogether, all three kids just turn out to be plain rude. In the end, literature has made them turn from nice, if not impolite, children, into jerks, and it has pushed them to take selfish and entitled actions throughout the last half of the book.”
+
+“Am I saying that _all_ people turn out to be jerks because of this?” The boy pauses and stares at the screen in horror. “_No!_ Absolutely not! I don’t know where you got that from. But in this novel, whether it be through championing one person’s ideas on civility and culture or sacrificing others for one’s own goals, the main thing that these three have learned in common is to be mean and miserly to one another. The chief effect of literature on Ma, Luo, and the Seamstress is the orneriness that they all inherit.”
+
+The camera zooms in one last time as he looks offscreen, then straight at the camera. As he sighs and drops his head, the footage cuts.
