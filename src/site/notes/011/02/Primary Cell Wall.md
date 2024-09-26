@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/primary-cell-wall/","title":"Primary Cell Wall","tags":["BIOL412"],"created":"2024-09-26T13:45:04.121-07:00","updated":"2024-09-26T15:24:20.888-07:00"}
+{"dg-publish":true,"permalink":"/011/02/primary-cell-wall/","title":"Primary Cell Wall","tags":["BIOL412"],"noteIcon":"fallback","created":"2024-09-26T13:45:04.121-07:00","updated":"2024-09-26T15:24:20.888-07:00"}
 ---
 
 The **primary cell wall** is a [[Cell Walls\|cell wall]] layer found in many living plant cells. It is a thin, semi-firm cell wall found within the [[011/02/Middle Lamella\|middle lamella]] of the cell.

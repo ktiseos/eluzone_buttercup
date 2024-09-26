@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/020/2019/kanna/","title":"hope died, but it did (not) in me","tags":["YTTD"],"created":"2024-09-26T13:45:04.180-07:00","updated":"2024-09-26T15:44:04.469-07:00"}
+{"dg-publish":true,"permalink":"/020/2019/kanna/","title":"hope died, but it did (not) in me","tags":["YTTD"],"noteIcon":"fallback","created":"2024-09-26T13:45:04.180-07:00","updated":"2024-09-26T15:44:04.469-07:00"}
 ---
 
 kanna wonders why it is her, at the start of it all, and not anyone else.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/principle-of-parsimony/","title":"Principle of Parsimony","tags":["BIOL422"],"created":"2024-09-26T13:45:04.122-07:00","updated":"2024-09-26T15:24:33.934-07:00"}
+{"dg-publish":true,"permalink":"/011/02/principle-of-parsimony/","title":"Principle of Parsimony","tags":["BIOL422"],"noteIcon":"fallback","created":"2024-09-26T13:45:04.122-07:00","updated":"2024-09-26T15:24:33.934-07:00"}
 ---
 
 The **principle of parsimony** is the prioritization of the simplest possible explanation for provided evidence. This principle is synonymous with **Occam’s razor** (also spelled as **Ockham’s razor**), a philosophical rule.

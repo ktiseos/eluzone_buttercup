@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/leukoplasts/","title":"Leukoplasts","tags":["BIOL412"],"created":"2024-09-26T13:45:04.098-07:00","updated":"2024-09-26T15:20:34.958-07:00"}
+{"dg-publish":true,"permalink":"/011/02/leukoplasts/","title":"Leukoplasts","tags":["BIOL412"],"noteIcon":"fallback","created":"2024-09-26T13:45:04.098-07:00","updated":"2024-09-26T15:20:34.958-07:00"}
 ---
 
 **Leukoplasts** are a kind of [[011/02/Plastids\|plastid]] found in [[011/02/Vascular Plants\|vascular plants]]. They are clear plastids, or depicted as being pigmented white, because they may store [[Starch\|starch]] or [[Oil\|oil]].

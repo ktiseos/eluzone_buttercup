@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/angiosperms/","title":"Angiosperms","tags":["BIOL412"],"created":"2024-09-26T13:45:04.064-07:00","updated":"2024-09-26T15:02:54.500-07:00"}
+{"dg-publish":true,"permalink":"/011/02/angiosperms/","title":"Angiosperms","tags":["BIOL412"],"noteIcon":"fallback","created":"2024-09-26T13:45:04.064-07:00","updated":"2024-09-26T15:02:54.500-07:00"}
 ---
 
 **Angiosperms** are a [[011/02/Taxonomic Clades\|clade]] of [[Seed Plants\|seed plants]]. They produce [[Seeds\|seeds]] for [[Sexual Reproduction\|sexual reproduction]]; however, unlike their [[011/02/Sister Groups\|sister]] clade [[011/02/Gymnosperms\|gymnosperms]], angiosperm seeds are enclosed in a structure known as a [[011/02/Fruit\|fruit]] for protection. In addition, they often produce and utilize [[011/02/Flowers\|flowers]] for protection and attraction in pollination. As such, angiosperms are commonly known as flowering plants and are some of the most prominent and most successful plants found in modern day.

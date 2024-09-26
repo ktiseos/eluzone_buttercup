@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/basal-taxons/","title":"Basal Taxons","tags":["BIOL422"],"created":"2024-09-26T13:45:04.068-07:00","updated":"2024-09-26T15:03:32.137-07:00"}
+{"dg-publish":true,"permalink":"/011/02/basal-taxons/","title":"Basal Taxons","tags":["BIOL422"],"noteIcon":"fallback","created":"2024-09-26T13:45:04.068-07:00","updated":"2024-09-26T15:03:32.137-07:00"}
 ---
 
 A **basal taxon** is a [[011/02/Taxa\|taxon]] or lineage that diverges early on in the lifelong [[011/02/Evolution\|evolution]] of a [[Common Ancestor\|common ancestor]]. If studied on a [[011/02/Phylogenetics\|phylogeny]], the taxon has branched off within the first [[011/02/Phylogenetic Node\|nodes]] which are furthest away or closest to the root if not [[011/02/Phylogenetic Branch\|branched]] off from the [[011/02/Phylogenetic Root\|root]] itself, while other [[011/02/Phylogenetic Node\|phylogenetic nodes]] have appeared in the same time.

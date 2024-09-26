@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/protonephridia/","title":"Protonephridia","tags":["BIOL422"],"created":"2024-09-26T13:45:04.123-07:00","updated":"2024-09-26T15:24:43.030-07:00"}
+{"dg-publish":true,"permalink":"/011/02/protonephridia/","title":"Protonephridia","tags":["BIOL422"],"noteIcon":"fallback","created":"2024-09-26T13:45:04.123-07:00","updated":"2024-09-26T15:24:43.030-07:00"}
 ---
 
 The **protonephridium** is an [[011/02/Organs\|organ]] found in the [[Excretory System\|excretory system]] of several [[Invertebrates\|invertebrates]] such as those in [[Phyla\|phylum]] [[011/02/Platyhelminthes\|Platyhelminthes]]. Thousands of protonephridium compose a network of protonephridia, which is commonly used to refer to the complete network. These networks are found on the body walls of the invertebrate. Each protonephridia is made of a [[Blind-Ended\|blind-ended]] [[Tubules\|tubule]] with a [[Flame Bulb\|flame bulb]] which caps the end of the branch.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"ITEM ACQUIRED: a warm bowl of primordial soup","tags":["gardenEntry"],"created":"2024-09-26T13:45:04.238-07:00","updated":"2024-09-26T15:36:46.928-07:00"}
+{"dg-publish":true,"permalink":"/index/","title":"ITEM ACQUIRED: a warm bowl of primordial soup","tags":["gardenEntry"],"noteIcon":"fallback","created":"2024-09-26T13:45:04.238-07:00","updated":"2024-09-26T15:36:46.928-07:00"}
 ---
 
 > [!quote] “Everyone has their own little internal world: a secret garden only they can enter. Each world follows its own internal logic: individuality. And the logic of one world means nothing in another.” —Yoshiya Kiryu

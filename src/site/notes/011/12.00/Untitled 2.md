@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/12-00/untitled-2/","created":"2024-09-26T13:45:04.164-07:00","updated":"2024-09-26T15:31:35.649-07:00"}
+{"dg-publish":true,"permalink":"/011/12-00/untitled-2/","noteIcon":"fallback","created":"2024-09-26T13:45:04.164-07:00","updated":"2024-09-26T15:31:35.649-07:00"}
 ---
 
 # 1920’s Paris

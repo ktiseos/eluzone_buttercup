@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/hardy-weinberg-equilibrium/","title":"Hardy-Weinberg Equilibrium","tags":["BIOL422"],"created":"2024-09-26T13:45:04.090-07:00","updated":"2024-09-26T15:19:02.125-07:00"}
+{"dg-publish":true,"permalink":"/011/02/hardy-weinberg-equilibrium/","title":"Hardy-Weinberg Equilibrium","tags":["BIOL422"],"noteIcon":"fallback","created":"2024-09-26T13:45:04.090-07:00","updated":"2024-09-26T15:19:02.125-07:00"}
 ---
 
 The **Hardy-Weinberg Equilibrium** is a [[Biology\|biological]] model which states [[011/02/Evolution\|evolution]] is not being observed in a [[Population\|population]] provided that several assumptive criteria are not violated. In simplified terms, the criteria are as follows, in no particular order:

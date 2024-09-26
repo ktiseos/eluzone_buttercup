@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/linnaean-taxonomy/","title":"Linnaean Taxonomy","tags":["BIOL422"],"created":"2024-09-26T13:45:04.099-07:00","updated":"2024-09-26T15:20:44.971-07:00"}
+{"dg-publish":true,"permalink":"/011/02/linnaean-taxonomy/","title":"Linnaean Taxonomy","tags":["BIOL422"],"noteIcon":"fallback","created":"2024-09-26T13:45:04.099-07:00","updated":"2024-09-26T15:20:44.971-07:00"}
 ---
 
 The **Linnaean taxonomical system** is a [[011/02/Systematics\|systematic]] classification of [[Organisms\|organisms]] into nested, [[Hierarchies\|hierarchal]] ranks that was invented by [[Carolus Linnaeus\|Carolus Linnaeus]]. This system has pervaded into modern day and expanded since Linnaeus’s time.

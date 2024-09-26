@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/020/2023/xc1/","title":"dum spiro spero; for as long as we’re here, we remain alive.","tags":["FFXIV"],"created":"2024-09-26T13:45:04.190-07:00","updated":"2024-09-26T15:42:59.673-07:00"}
+{"dg-publish":true,"permalink":"/020/2023/xc1/","title":"dum spiro spero; for as long as we’re here, we remain alive.","tags":["FFXIV"],"noteIcon":"fallback","created":"2024-09-26T13:45:04.190-07:00","updated":"2024-09-26T15:42:59.673-07:00"}
 ---
 
 > [!note] \* ( this is what matters. )
