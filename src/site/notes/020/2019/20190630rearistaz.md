@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/020/2019/20190630rearistaz/","title":"rearistaz.","tags":["YTTD","Unfinished"],"noteIcon":"1","created":"2024-09-26T13:45:04.180-07:00","updated":"2024-09-26T15:44:06.563-07:00"}
+{"dg-publish":true,"permalink":"/020/2019/20190630rearistaz/","title":"rearistaz.","tags":["YTTD","Unfinished"],"noteIcon":"1","created":"2024-09-26T13:45:04.180-07:00","updated":"2024-09-26T19:19:25.950-07:00"}
 ---
 
 Look at you. Your father’s masterpiece.
@@ -56,9 +56,9 @@ You speak, and the poison welled in your mouth blows over.
 
 **“What a *worthless* human life,”** you start, and the poison burns when you try to stop. **“Aren’t you going to resist? Aren’t you going to show exactly what makes you human?”**
 
-Resistance. Struggle. Desperation. The remnants of hope, of a fleeting wish for freedom — it’s exactly what every human ▮▮▮
+Resistance. Struggle. Desperation. The remnants of hope, of a fleeting wish for freedom — it’s exactly what every human `~▮▮▮~`
 
-her ▮▮▮
+her `~▮▮▮~`
 
 Her name is Anzu Kinashi.
 
@@ -90,7 +90,7 @@ Eventually, there are cries. And not much longer, just as expected, two timers r
 
 The crowd dissipates, leaving Sue Miley in fits and two bodies in blood. You and Safalin fill in when she leaves, intent on mopping away all but memories from the room.
 
-Soon enough, you near on ▮▮▮
+Soon enough, you near on `~▮▮▮~`
 
 ---
 
@@ -102,4 +102,4 @@ Why?
 
 *Why?*
 
-It wasn’t supposed to turn out like this! Circuits fizz and snap until they run dry, porcelain ▮▮▮
+It wasn’t supposed to turn out like this! Circuits fizz and snap until they run dry, porcelain `~▮▮▮~`
