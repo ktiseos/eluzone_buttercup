@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/cotyledons/","title":"Cotyledons","tags":["BIOL412"],"noteIcon":"1","created":"2024-09-26T13:45:04.078-07:00","updated":"2024-09-26T15:17:10.818-07:00"}
+{"dg-publish":true,"permalink":"/011/02/cotyledons/","title":"Cotyledons","tags":["BIOL412"],"noteIcon":"1","created":"2024-09-26T13:45:04.078-07:00","updated":"2024-10-03T22:32:21.588-07:00"}
 ---
 
-A **cotyledon** is an [[011/02/Organs\|organ]] found in [[Embryo\|embryonic]] [[011/02/Vascular Plants\|vascular plants]] before adolescent development. A vascular plant may have one or two cotyledons; of the [[011/02/Angiosperms\|angiosperms]], [[011/02/Monocots\|monocot]] [[Seeds\|seeds]] possess one cotyledon and [[011/02/Eudicots\|eudicots]] possess two. This difference is a distinguishing [[011/02/Evolutionary Traits\|trait]] between the [[011/02/Taxonomic Clades\|clades]] and is the etymological origin for the clade names.
+A **cotyledon** is an [[011/02/Organs\|organ]] found in [[Embryo\|embryonic]] [[011/02/Vascular Plants\|vascular plants]] before adolescent development. A vascular plant may have one or two cotyledons; of the [[011/02/Angiosperms\|angiosperms]], [[011/02/Monocots\|monocot]] [[Seeds\|seeds]] possess one cotyledon and [[011/02/Eudicots\|eudicots]] possess two. This difference is a distinguishing [[011/02/Evolutionary Traits\|trait]] between the [[011/02/Taxonomic Clades\|clades]] and is the etymological origin for the [[011/02/Taxonomic Clades\|clade]] names.
 
 The cotyledon is found in the sperm and underneath the [[Seed Coat\|seed coat]] after fertilization. Its function and appearance varies depending on whether or not the embryo relies on it for food storage. If the embryo depends on the [[011/02/Endosperm\|endosperm]] for food storage, the cotyledon is not fleshy and is used for absorbing nutrients. If the embryo depends on the cotyledon or cotyledons, the organ is fleshy and full of nutrients, and the endosperm is often absorbed into either the embryo or the cotyledon. In plants where the latter is true, such as garden beans and various nuts, this cotyledon is preserved and eaten as commercial food.
 

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/binomial-nomenclature/","title":"Binomial Nomenclature","tags":["BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.069-07:00","updated":"2024-09-26T15:03:36.553-07:00"}
+{"dg-publish":true,"permalink":"/011/02/binomial-nomenclature/","title":"Binomial Nomenclature","tags":["BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.069-07:00","updated":"2024-10-03T22:30:47.784-07:00"}
 ---
 
-**Binomial nomenclature** is a [[011/02/Taxonomy\|taxonomical]] system that was invented by [[Carolus Linnaeus\|Carolus Linnaeus]]. Under the system of binomial nomenclature, all [[Organisms\|organisms]] are given a two-word scientific name. The first word corresponds to the [[Genera\|genus]] which the organism belongs to; the second is denoted as the “specific epithet” which is exclusive to that [[Species\|species]]. Binomial nomenclature is a subset of [[011/02/Linnaean Taxonomy\|Linnaean taxonomy]] which addresses the lowest ranks in the taxonomic structure: genera and species.
+**Binomial nomenclature** is a [[011/02/Taxonomy\|taxonomical]] system that was invented by [[Carolus Linnaeus\|Carolus Linnaeus]]. Under the system of binomial nomenclature, all [[Organisms\|organisms]] are given a two-word scientific name. The first word corresponds to the [[Genera\|genus]] which the [[move later/Organism\|organism]] belongs to; the second is denoted as the “specific epithet” which is exclusive to that [[Species\|species]]. Binomial nomenclature is a subset of [[011/02/Linnaean Taxonomy\|Linnaean taxonomy]] which addresses the lowest ranks in the taxonomic structure: genera and species.
 
 To refer to an organism via binomial nomenclature, one needs to follow a set of rules.
 1. The genus name precedes the specific epithet.
