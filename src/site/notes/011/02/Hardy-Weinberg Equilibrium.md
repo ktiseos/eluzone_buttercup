@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/hardy-weinberg-equilibrium/","title":"Hardy-Weinberg Equilibrium","tags":["BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.090-07:00","updated":"2024-10-03T22:28:47.674-07:00"}
+{"dg-publish":true,"permalink":"/011/02/hardy-weinberg-equilibrium/","title":"Hardy-Weinberg Equilibrium","tags":["BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.090-07:00","updated":"2024-10-03T23:20:58.928-07:00"}
 ---
 
-The **Hardy-Weinberg Equilibrium** is a [[move later/Biology\|biological]] model which states [[011/02/Evolution\|evolution]] is not being observed in a [[move later/Biological Population\|population]] provided that several assumptive criteria are not violated. In simplified terms, the criteria are as follows, in no particular order:
-1. The [[move later/Biological Population\|population]] must be large, or even infinitely large;
-2. [[Random Mating\|Random mating]] in regards to the observed trait must be occurring;
+The **Hardy-Weinberg Equilibrium** is a [[011/02/Biology\|biological]] model which states [[011/02/Evolution\|evolution]] is not being observed in a [[011/02/Biological Population\|population]] provided that several assumptive criteria are not violated. In simplified terms, the criteria are as follows, in no particular order:
+1. The [[011/02/Biological Population\|population]] must be large, or even infinitely large;
+2. [[Random Mating\|Random mating]] in regards to the observed [[011/02/Evolutionary Traits\|trait]] must be occurring;
 3. [[Gene Flow\|Gene flow]] must not be occurring;
 4. [[Mutation\|Mutation]] must not be occurring;
 5. [[Natural Selection\|Natural selection]] must not be occurring on the observed trait.
