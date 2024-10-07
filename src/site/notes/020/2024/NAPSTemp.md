@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/020/2024/naps-temp/","title":"Elu NAPS Templates","noteIcon":"1","created":"2024-10-03T19:06:48.699-07:00","updated":"2024-10-06T23:25:59.196-07:00"}
+{"dg-publish":true,"permalink":"/020/2024/naps-temp/","title":"Elu NAPS Templates","noteIcon":"1","created":"2024-10-03T19:06:48.699-07:00","updated":"2024-10-06T23:29:14.152-07:00"}
 ---
 
 # \[ CURRENT ] 2024/10/06 Thread Template
 > [!warning]+ Delete one hash from the header to maintain formatting.
 
+```
 hi there! i’m ellie, and i’ll be the prog lead for the **2-HOUR M[]S RUN** starting <t:**[TIMESTAMP]**:F> <t:**[TIMESTAMP]**:R>! we will be on **[DATA CENTER]**, and the PF will be up by <t:**[-30]**:t> in the private tab.
 
 **OUR STRATS ARE: [variable per fight: CHOOSE ONE]**
@@ -32,6 +33,8 @@ hi there! i’m ellie, and i’ll be the prog lead for the **2-HOUR M[]S RUN** s
   - **__do not confirm__ your attendance by** <t:**[-5]**:t>, i will look for substitutes.
 - **please remember that if you do not bring i710+ gear and raid food, you are violating #run-expectations!**
 - :peanutgallery: __i typically stream these runs on [twitch](<https://twitch.tv/ktiseos>)__ with full party privacy. however, if anyone is uncomfortable with the stream, let me know, and i will not stream there! (if i do, i'd appreciate if someone else could stream for VC.)
+```
+
 # \[ OLD ] 2024/10/04 Thread Template
 > [!warning]+ Delete one hash from each header to maintain formatting.
 
