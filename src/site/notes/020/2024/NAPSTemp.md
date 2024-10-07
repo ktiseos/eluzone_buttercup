@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/020/2024/naps-temp/","title":"Elu NAPS Templates","noteIcon":"1","created":"2024-10-03T19:06:48.699-07:00","updated":"2024-10-06T23:52:35.986-07:00"}
+{"dg-publish":true,"permalink":"/020/2024/naps-temp/","title":"Elu NAPS Templates","noteIcon":"1","created":"2024-10-03T19:06:48.699-07:00","updated":"2024-10-06T23:54:11.074-07:00"}
 ---
 
 # \[ CURRENT ] 2024/10/06 Thread Template
-> [!warning] Delete several added symbols/text to maintain original formatting.
-> - **All hyphens/dashes and bracketed, non-linked text** for **PF strats**, lines 4-7
-> - **Space & backslash** between **-** & **#**, line 9
-> - **One hash** from the **header**, line 21
+> [!warning] Delete several added symbols/text to maintain original formatting:
+> - **All hyphens/dashes and bracketed, non-linked text** for **PF strats**, lines 4-7;
+> - **Space & backslash** between **-** & **#**, line 9;
+> - **One hash** from the **header**, line 21.
 
-> [!NOTE]- RAW CODE:
+> [!NOTE]- RAW CODE (LONG BODY OF CODE):
 >> ```
 >> hi there! i’m ellie, and i’ll be the prog lead for the **2-HOUR M[]S RUN** starting <t:**[TIMESTAMP]**:F> <t:**[TIMESTAMP]**:R>! we will be on **[DATA CENTER]**, and the PF will be up by <t:**[-30]**:t> in the private tab.
 >> 
