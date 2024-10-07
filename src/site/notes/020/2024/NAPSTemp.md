@@ -1,31 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/020/2024/naps-temp/","title":"Elu NAPS Templates","noteIcon":"1","created":"2024-10-03T19:06:48.699-07:00","updated":"2024-10-06T23:30:47.715-07:00"}
+{"dg-publish":true,"permalink":"/020/2024/naps-temp/","title":"Elu NAPS Templates","noteIcon":"1","created":"2024-10-03T19:06:48.699-07:00","updated":"2024-10-06T23:35:40.301-07:00"}
 ---
 
 # \[ CURRENT ] 2024/10/06 Thread Template
-> [!warning]+ Delete one hash from the header to maintain formatting.
+> [!warning]+ Delete one hash from the header and the space & backslash between -# on Line 9 to maintain formatting.
 
-```
 hi there! i’m ellie, and i’ll be the prog lead for the **2-HOUR M[]S RUN** starting <t:**[TIMESTAMP]**:F> <t:**[TIMESTAMP]**:R>! we will be on **[DATA CENTER]**, and the PF will be up by <t:**[-30]**:t> in the private tab.
 
 **OUR STRATS ARE: [variable per fight: CHOOSE ONE]**
->> **[M1S:]** TN | Same Bait | DPS 1st | Supp CCW | THD | **Starrvy MTTT**
->> **[M2S:]** Braindead B2 | MK N | Supp NW DPS SE | Color Defams | Rotten @ 6
->> **[M3S:]** [Hector](<https://youtu.be/R_T6l_nKwlw?si=At5QK-ounpaB_Fum>) | no KBI | Supp CCW | **MMRR**
+- **[M1S:]** TN | Same Bait | DPS 1st | Supp CCW | THD | **Starrvy MTTT**
+- **[M2S:]** Braindead B2 | MK N | Supp NW DPS SE | Color Defams | Rotten @ 6
+- **[M3S:]** [Hector](<https://youtu.be/R_T6l_nKwlw?si=At5QK-ounpaB_Fum>) | no KBI | Supp CCW | **MMRR**
 
--# if you choose to watch a guide…
->> **[M1S:]** every strat site/guide is different i’m sorry 💀 but this is __identical__ to the https://discord.com/channels/1272610310095900753/1279935645921316895 thread in-server. if you are watching [Hector’s guide](https://www.youtube.com/watch?v=9UB5x8JzAiQ), use his addendums for [same baits](https://www.youtube.com/watch?v=bOCqbHRQw2Q) and [Starrvy](https://www.youtube.com/watch?v=AiF_c4dwXU8) instead of clock baits and MTTT. if you are referencing [joonbob](https://www.youtube.com/watch?v=0Vb3TCqz4F8&t=370s) or [thepfstrat](<https://www.thepfstrat.com/M1S>), use the Starrvy strat instead of MTTT.
->> **[M2S:]** this is __almost identical__ to the https://discord.com/channels/1272610310095900753/1279936014961348630 thread in-server except for *Alarm Pheromones 1* & __identical__ to [thepfstrat](<https://www.thepfstrat.com/M2S>). no joonbob pickup guide, sorry!
->> **[M3S:]** this is __identical__ to the https://discord.com/channels/1272610310095900753/1279936112927838322 thread in-server & [thepfstrat](<https://www.thepfstrat.com/M3S>). it is __almost identical__ to the [joonbob video](<https://youtu.be/EHdIKRoFx74?si=KAz3KpbUgbAVkcx2>) *except* for final fusefield.
+- \# if you choose to watch a guide…
+  - **[M1S:]** every strat site/guide is different i’m sorry 💀 but this is __identical__ to the https://discord.com/channels/1272610310095900753/1279935645921316895 thread in-server. if you are watching [Hector’s guide](https://www.youtube.com/watch?v=9UB5x8JzAiQ), use his addendums for [same baits](https://www.youtube.com/watch?v=bOCqbHRQw2Q) and [Starrvy](https://www.youtube.com/watch?v=AiF_c4dwXU8) instead of clock baits and MTTT. if you are referencing [joonbob](https://www.youtube.com/watch?v=0Vb3TCqz4F8&t=370s) or [thepfstrat](<https://www.thepfstrat.com/M1S>), use the Starrvy strat instead of MTTT.
+  - **[M2S:]** this is __almost identical__ to the https://discord.com/channels/1272610310095900753/1279936014961348630 thread in-server except for *Alarm Pheromones 1* & __identical__ to [thepfstrat](<https://www.thepfstrat.com/M2S>). no joonbob pickup guide, sorry!
+  - **[M3S:]** this is __identical__ to the https://discord.com/channels/1272610310095900753/1279936112927838322 thread in-server & [thepfstrat](<https://www.thepfstrat.com/M3S>). it is __almost identical__ to the [joonbob video](<https://youtu.be/EHdIKRoFx74?si=KAz3KpbUgbAVkcx2>) *except* for final fusefield.
 
-:tank: @hightreason.
-:tank: @seatofsacrifice
-:healer: @aeschylean
+:tank: @
+:tank: @
+:healer: @
 :healer: @p11s (hi!)
-:melee: @tagaraw
-:melee: @electrogenic4085
-:physranged: @photoshoot_
-:caster: @psyvalry0909
+:melee: @
+:melee: @ \[OPEN FOR ???]
+:physranged: @
+:caster: @
 ## IMPORTANT INFO:
 - **we are using the attached thread** for further coordination. if you’re pinged in this post and…
   - **__can’t__ make it**, please let us know ASAP in the thread or #signup-discussion.
@@ -33,9 +32,8 @@ hi there! i’m ellie, and i’ll be the prog lead for the **2-HOUR M[]S RUN** s
   - **__do not confirm__ your attendance by** <t:**[-5]**:t>, i will look for substitutes.
 - **please remember that if you do not bring i710+ gear and raid food, you are violating #run-expectations!**
 - :peanutgallery: __i typically stream these runs on [twitch](<https://twitch.tv/ktiseos>)__ with full party privacy. however, if anyone is uncomfortable with the stream, let me know, and i will not stream there! (if i do, i'd appreciate if someone else could stream for VC.)
-```
 - - -
-# \[ CURRENT ] LFP Ads
+# \[ CURRENT?? ] LFP Ads
 (by the way, we have an open spot! please reference [SORRY, I’M ABOUT TO POST IT, GIVE ME A MINUTE] in #looking-for-party if you are interested in joining this run. thank you so much!!)
 
 @m[]s prog Hi! I’m looking for **ONE [DPS] WHO HAS NOT CLEARED/IS CURRENTLY PROGGING M[]S** for a NAPS run starting <t:**[TIMESTAMP]**:F> <t:**[TIMESTAMP]**:R>. **[ANY DPS ROLES/JOBS ENCOURAGED.]** This is a 2-hour session with i710+ gear and raid food requirement, and you do not need to watch a guide before joining (encouraged, but not required!!!!!!!); you just need to **ping me in this thread** and let me know **before** <t:**[TIMESTAMP]**:F>, one hour before the start time.
