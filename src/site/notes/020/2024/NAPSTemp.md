@@ -1,16 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/020/2024/naps-temp/","title":"Elu NAPS Templates","noteIcon":"1","created":"2024-10-03T19:06:48.699-07:00","updated":"2024-10-06T23:35:40.301-07:00"}
+{"dg-publish":true,"permalink":"/020/2024/naps-temp/","title":"Elu NAPS Templates","noteIcon":"1","created":"2024-10-03T19:06:48.699-07:00","updated":"2024-10-06T23:40:31.105-07:00"}
 ---
 
 # \[ CURRENT ] 2024/10/06 Thread Template
-> [!warning]+ Delete one hash from the header and the space & backslash between -# on Line 9 to maintain formatting.
+> [!warning]+ Delete several added symbols/text to maintain original formatting.
+> - **All hyphens/dashes and bracketed, non-linked text** for **PF strats**, lines 4-7
+> - **Space & backslash** between **-** & **#**, line 9
+> - **One hash** from the **header**, line 21
 
 hi there! i’m ellie, and i’ll be the prog lead for the **2-HOUR M[]S RUN** starting <t:**[TIMESTAMP]**:F> <t:**[TIMESTAMP]**:R>! we will be on **[DATA CENTER]**, and the PF will be up by <t:**[-30]**:t> in the private tab.
 
-**OUR STRATS ARE: [variable per fight: CHOOSE ONE]**
-- **[M1S:]** TN | Same Bait | DPS 1st | Supp CCW | THD | **Starrvy MTTT**
-- **[M2S:]** Braindead B2 | MK N | Supp NW DPS SE | Color Defams | Rotten @ 6
-- **[M3S:]** [Hector](<https://youtu.be/R_T6l_nKwlw?si=At5QK-ounpaB_Fum>) | no KBI | Supp CCW | **MMRR**
+- **OUR STRATS ARE: [variable per fight: CHOOSE ONE]**
+  - **[M1S:]** TN | Same Bait | DPS 1st | Supp CCW | THD | **Starrvy MTTT**
+  - **[M2S:]** Braindead B2 | MK N | Supp NW DPS SE | Color Defams | Rotten @ 6
+  - **[M3S:]** [Hector](<https://youtu.be/R_T6l_nKwlw?si=At5QK-ounpaB_Fum>) | no KBI | Supp CCW | **MMRR**
 
 - \# if you choose to watch a guide…
   - **[M1S:]** every strat site/guide is different i’m sorry 💀 but this is __identical__ to the https://discord.com/channels/1272610310095900753/1279935645921316895 thread in-server. if you are watching [Hector’s guide](https://www.youtube.com/watch?v=9UB5x8JzAiQ), use his addendums for [same baits](https://www.youtube.com/watch?v=bOCqbHRQw2Q) and [Starrvy](https://www.youtube.com/watch?v=AiF_c4dwXU8) instead of clock baits and MTTT. if you are referencing [joonbob](https://www.youtube.com/watch?v=0Vb3TCqz4F8&t=370s) or [thepfstrat](<https://www.thepfstrat.com/M1S>), use the Starrvy strat instead of MTTT.
