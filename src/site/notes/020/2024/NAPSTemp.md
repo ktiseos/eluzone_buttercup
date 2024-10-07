@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/020/2024/naps-temp/","title":"Elu NAPS Templates","noteIcon":"1","created":"2024-10-03T19:06:48.699-07:00","updated":"2024-10-06T23:29:14.152-07:00"}
+{"dg-publish":true,"permalink":"/020/2024/naps-temp/","title":"Elu NAPS Templates","noteIcon":"1","created":"2024-10-03T19:06:48.699-07:00","updated":"2024-10-06T23:30:47.715-07:00"}
 ---
 
 # \[ CURRENT ] 2024/10/06 Thread Template
@@ -34,7 +34,16 @@ hi there! i’m ellie, and i’ll be the prog lead for the **2-HOUR M[]S RUN** s
 - **please remember that if you do not bring i710+ gear and raid food, you are violating #run-expectations!**
 - :peanutgallery: __i typically stream these runs on [twitch](<https://twitch.tv/ktiseos>)__ with full party privacy. however, if anyone is uncomfortable with the stream, let me know, and i will not stream there! (if i do, i'd appreciate if someone else could stream for VC.)
 ```
+- - -
+# \[ CURRENT ] LFP Ads
+(by the way, we have an open spot! please reference [SORRY, I’M ABOUT TO POST IT, GIVE ME A MINUTE] in #looking-for-party if you are interested in joining this run. thank you so much!!)
 
+@m[]s prog Hi! I’m looking for **ONE [DPS] WHO HAS NOT CLEARED/IS CURRENTLY PROGGING M[]S** for a NAPS run starting <t:**[TIMESTAMP]**:F> <t:**[TIMESTAMP]**:R>. **[ANY DPS ROLES/JOBS ENCOURAGED.]** This is a 2-hour session with i710+ gear and raid food requirement, and you do not need to watch a guide before joining (encouraged, but not required!!!!!!!); you just need to **ping me in this thread** and let me know **before** <t:**[TIMESTAMP]**:F>, one hour before the start time.
+
+**IF YOU HAVE CLEARED M[]S:** do not apply! Sorry, but I already have a fill in case no one reaches out. This ad is *ONLY* for people who are progging M[]S.
+
+Thank you so much!
+- - -
 # \[ OLD ] 2024/10/04 Thread Template
 > [!warning]+ Delete one hash from each header to maintain formatting.
 
@@ -63,12 +72,3 @@ hi there! i’m ellie, and i’ll be the prog lead for the **2-HOUR M[]S RUN** s
   - **PROGGING THE FIGHT?** let me know your prog point! (ZERO judgment; i just want to prepare to help better!)
   - **[M1S/M3S ONLY:]** :healer: WE ARE RUNNING **DOUBLE REGEN**. i’ve done it; it’s fun!! i just ask we really use those party mits after final fusedown or we’ll fall to the floor.
   - :peanutgallery: i will be streaming on [TWITCH](<https://twitch.tv/ktiseos>) with all names initialized, comms muted, and full privacy outside the server. HOWEVER, if anyone is uncomfortable with it being on twitch, let me know, and i will not stream there! (if i do, i'd appreciate if someone else could stream for the VC.)
-- - -
-# \[ CURRENT ] LFP Ads
-(by the way, we have an open spot! please reference [SORRY, I’M ABOUT TO POST IT, GIVE ME A MINUTE] in #looking-for-party if you are interested in joining this run. thank you so much!!)
-
-@m[]s prog Hi! I’m looking for **ONE [DPS] WHO HAS NOT CLEARED/IS CURRENTLY PROGGING M[]S** for a NAPS run starting <t:**[TIMESTAMP]**:F> <t:**[TIMESTAMP]**:R>. **[ANY DPS ROLES/JOBS ENCOURAGED.]** This is a 2-hour session with i710+ gear and raid food requirement, and you do not need to watch a guide before joining (encouraged, but not required!!!!!!!); you just need to **ping me in this thread** and let me know **before** <t:**[TIMESTAMP]**:F>, one hour before the start time.
-
-**IF YOU HAVE CLEARED M[]S:** do not apply! Sorry, but I already have a fill in case no one reaches out. This ad is *ONLY* for people who are progging M[]S.
-
-Thank you so much!
