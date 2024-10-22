@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/epithelial-tissues/","title":"Epithelial Tissues","tags":["BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.082-07:00","updated":"2024-10-03T23:22:32.295-07:00"}
+{"dg-publish":true,"permalink":"/011/02/epithelial-tissues/","title":"Epithelial Tissues","tags":["BIOL422"],"noteIcon":"1","created":"2024-10-19T20:27:19.043-07:00","updated":"2024-10-03T23:22:32.295-07:00"}
 ---
 
 **Epithelial tissues** are [[011/02/Tissues\|tissues]] which line the outer surface and junctions of an [[011/02/Organs\|organ]]. Their name derives from *epi-*, an adjectival prefix for outer, and *thelium* (*pl.* thelia), which refers to a nipple, papilla, or projection. Epithelial tissues are used for [[011/02/Cells\|cell]] regulation: they aid [[Selective Permeability\|selective permeability]] and control the passage of materials through the body.

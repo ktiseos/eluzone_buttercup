@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/001/digital-gardening/","noteIcon":"1","created":"2024-09-26T13:45:04.054-07:00","updated":"2024-09-26T15:41:38.338-07:00"}
+{"dg-publish":true,"permalink":"/011/001/digital-gardening/","noteIcon":"1","created":"2024-10-19T20:27:18.996-07:00","updated":"2024-09-26T15:41:38.338-07:00"}
 ---
 
 The **Digital Garden** is a conceptual place and a line of thought. It functions as both a verb and a noun; it is etymologically derived purely from the modern definitions of both words.

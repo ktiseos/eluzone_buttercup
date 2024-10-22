@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/secondary-cell-wall/","title":"Secondary Cell Wall","tags":["BIOL412"],"noteIcon":"1","created":"2024-09-26T13:45:04.126-07:00","updated":"2024-10-03T23:11:08.689-07:00"}
+{"dg-publish":true,"permalink":"/011/02/secondary-cell-wall/","title":"Secondary Cell Wall","tags":["BIOL412"],"noteIcon":"1","created":"2024-10-19T20:27:19.121-07:00","updated":"2024-10-03T23:11:08.689-07:00"}
 ---
 
 The **secondary cell wall** is a [[Cell Walls\|cell wall]] layer found in some plant [[011/02/Cells\|cells]], most often dead cells and [[Secondary Tissues\|secondary tissue]]. It is a thick, rigid, [[Hydrophobia\|hydrophobic]] cell layer which prevents the transport of most materials into the cell.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/plant-nodes/","title":"Nodes","tags":["BIOL412"],"noteIcon":"1","created":"2024-09-26T13:45:04.118-07:00","updated":"2024-09-26T15:23:29.049-07:00"}
+{"dg-publish":true,"permalink":"/011/02/plant-nodes/","title":"Nodes","tags":["BIOL412"],"noteIcon":"1","created":"2024-10-19T20:27:19.108-07:00","updated":"2024-09-26T15:23:29.049-07:00"}
 ---
 
 A **node** is typically the location on a [[Plants\|plant]] in the [[011/02/Shoot System\|shoot system]] where a [[011/02/Leaves\|leaf]] is attached to the [[011/02/Stems\|stem]]. The leaf may be attached via the [[011/02/Petiole\|petiole]] structure or it may be directly connected to the stem.

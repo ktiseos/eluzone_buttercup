@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/connective-tissues/","title":"Connective Tissues","tags":["BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.078-07:00","updated":"2024-10-03T23:23:42.562-07:00"}
+{"dg-publish":true,"permalink":"/011/02/connective-tissues/","title":"Connective Tissues","tags":["BIOL422"],"noteIcon":"1","created":"2024-10-19T20:27:19.035-07:00","updated":"2024-10-03T23:23:42.562-07:00"}
 ---
 
 The **connective tissue** category is a diverse grouping of [[011/02/Tissues\|tissues]] that are used to join together and/or protect and support [[011/02/Organs\|organs]] and other tissues.

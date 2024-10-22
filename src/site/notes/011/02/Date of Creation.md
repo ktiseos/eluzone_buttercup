@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/date-of-creation/","title":"Date of Creation","tags":["BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.080-07:00","updated":"2024-10-03T22:31:05.452-07:00"}
+{"dg-publish":true,"permalink":"/011/02/date-of-creation/","title":"Date of Creation","tags":["BIOL422"],"noteIcon":"1","created":"2024-10-19T20:27:19.038-07:00","updated":"2024-10-03T22:31:05.452-07:00"}
 ---
 
 The **“Date of Creation”** was a date proposed by James Usher, a Western Christian bishop, around 1694. The Date of Creation was proposed as October 22, 4004 B.C.E. It was claimed that on this date, all of creation was “brought into existence”, including all [[Species\|species]] and [[011/02/Organism\|organisms]], and reinforced the idea of a permanent, perfect form.

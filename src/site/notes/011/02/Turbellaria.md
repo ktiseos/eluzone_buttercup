@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/turbellaria/","title":"Turbellaria","tags":["BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.139-07:00","updated":"2024-09-26T15:26:58.440-07:00"}
+{"dg-publish":true,"permalink":"/011/02/turbellaria/","title":"Turbellaria","tags":["BIOL422"],"noteIcon":"1","created":"2024-10-19T20:27:19.141-07:00","updated":"2024-09-26T15:26:58.440-07:00"}
 ---
 
 [[Classes\|Class]] **Turbellaria** is a [[011/02/Paraphyletic Groups\|paraphyletic]] subrank of the [[Phyla\|phylum]] [[011/02/Platyhelminthes\|Platyhelminthes]] which encompasses all [[Free-Living\|free-living]] flatworms. Turbellaria possess the highest degree of [[011/02/Cephalization\|cephalization]] of the platyhelminths to survive their non-[[Parasitism\|parasitic]] behavior. This trend shows in their distinguished [[Anterior\|anterior]] and [[Posterior\|posterior]] sides, of which the anterior contains many important [[011/02/Organs\|organs]] at the [[Cephalic Region\|cephalic region]].

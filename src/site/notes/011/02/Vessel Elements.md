@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/vessel-elements/","tags":["BIOL412"],"noteIcon":"1","created":"2024-09-26T13:45:04.140-07:00","updated":"2024-09-26T15:27:12.704-07:00"}
+{"dg-publish":true,"permalink":"/011/02/vessel-elements/","tags":["BIOL412"],"noteIcon":"1","created":"2024-10-19T20:27:19.143-07:00","updated":"2024-09-26T15:27:12.704-07:00"}
 ---
 
 **Vessel elements** are a kind of [[011/02/Water-Conducting Cells\|water-conducting cell]] which are mostly only found in [[011/02/Angiosperms\|Angiosperms]]. These cells can be stacked to form wide, long pipes, known as vessels, which transport water across the plant; they often are stacked in pipes as small as the length of two cells to 30–50 cells long.

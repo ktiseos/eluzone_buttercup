@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/endosperm/","title":"Endosperm","tags":["BIOL412"],"noteIcon":"1","created":"2024-09-26T13:45:04.082-07:00","updated":"2024-09-26T15:17:41.120-07:00"}
+{"dg-publish":true,"permalink":"/011/02/endosperm/","title":"Endosperm","tags":["BIOL412"],"noteIcon":"1","created":"2024-10-19T20:27:19.042-07:00","updated":"2024-09-26T15:17:41.120-07:00"}
 ---
 
 The **endosperm** is a layer of endoskeletal [[011/02/Tissues\|tissue]] found in many [[011/02/Angiosperms\|angiosperm]] [[Embryo\|embryos]]. It surrounds the sperm inside the embryo. This layer is full of nutrients which are used to support the [[Seeds\|seed]] after germination. It is protected by a [[Seed Coat\|seed coat]] and the [[011/02/Fruit\|fruit]], preventing it from being damaged and harming necessary resources for the embryo.

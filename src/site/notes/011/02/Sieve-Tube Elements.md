@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/sieve-tube-elements/","title":"Sieve-Tube Elements","tags":["BIOL412"],"noteIcon":"1","created":"2024-09-26T13:45:04.128-07:00","updated":"2024-10-03T23:10:26.995-07:00"}
+{"dg-publish":true,"permalink":"/011/02/sieve-tube-elements/","title":"Sieve-Tube Elements","tags":["BIOL412"],"noteIcon":"1","created":"2024-10-19T20:27:19.125-07:00","updated":"2024-10-03T23:10:26.995-07:00"}
 ---
 
 **Sieve-tube elements** are a kind of [[Plant Cells\|plant cell]] found in [[Phloem\|phloem]] [[011/02/Tissues\|tissue]]. They are soft, small [[011/02/Cells\|cells]] which can be stacked to form long sieve tubes. They only possess [[011/02/Middle Lamella\|middle lamellae]] and [[011/02/Primary Cell Wall\|primary cell walls]], making them soft and easy to damage; as a result, they last an average of a year before being destroyed.

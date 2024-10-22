@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/evolutionary-history/","title":"Evolutionary History","tags":["BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.084-07:00","updated":"2024-10-03T23:30:36.739-07:00"}
+{"dg-publish":true,"permalink":"/011/02/evolutionary-history/","title":"Evolutionary History","tags":["BIOL422"],"noteIcon":"1","created":"2024-10-19T20:27:19.045-07:00","updated":"2024-10-03T23:30:36.739-07:00"}
 ---
 
 Historically, it was assumed that [[Species\|species]] were comprised of fixed [[011/02/Organism\|organisms]] for as long as they were [[Extant\|extant]]. This viewpoint extends as far back as Greek philosophy. One example philosopher was Aristotle (circa 300 B.C.E.), who developed the [[011/02/Great Chain of Being\|“Great Chain of Being”]]. This perspective of permanent perfection persisted into the development and rise of Western Christianity (seen in the Old Testament and the Genesis.) At the time, it was propagated by Bishop James Usher (circa 1694), who developed a [[011/02/Date of Creation\|“Date of Creation”]] based on Biblical literature.

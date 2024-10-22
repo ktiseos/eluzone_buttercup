@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/platyhelminthes/","title":"Platyhelminthes","tags":["BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.119-07:00","updated":"2024-10-03T23:31:42.385-07:00"}
+{"dg-publish":true,"permalink":"/011/02/platyhelminthes/","title":"Platyhelminthes","tags":["BIOL422"],"noteIcon":"1","created":"2024-10-19T20:27:19.110-07:00","updated":"2024-10-03T23:31:42.385-07:00"}
 ---
 
 [[Phyla\|Phylum]] **Platyhelminthes** is a [[011/02/Taxonomy\|taxonomic]] group of [[Acoelomate\|acoelomate]] [[Animals\|animals]] whose classes are referred to monolithically as platyhelminths or flatworms. They are known for being the largest taxonomic group in the [[011/02/Taxonomic Clades\|clade]] [[Bilateria\|Bilateria]]. They possesses the most [[Primitive\|primitive]] [[011/02/Organism\|organisms]] that [[011/02/Evolution\|evolved]] [[Bilateral Symmetry\|bilateral]] [[Symmetry\|symmetry]], [[011/02/Cephalization\|cephalization]], and three distinct [[Germ Layers\|germ layers]] while lacking [[Segmentation\|segmentation]] and [[Vertebrae\|vertebrae]] which are commonly attributed to other phyla in Bilateria.

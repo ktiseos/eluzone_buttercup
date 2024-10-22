@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/001/zettelkasten/","noteIcon":"1","created":"2024-09-26T13:45:04.059-07:00","updated":"2024-09-26T15:42:08.282-07:00"}
+{"dg-publish":true,"permalink":"/011/001/zettelkasten/","noteIcon":"1","created":"2024-10-19T20:27:19.002-07:00","updated":"2024-09-26T15:42:08.282-07:00"}
 ---
 
 The **Zettelkasten** (*trans-lit.* slip box, from German; *pl.* Zettelkästen) method is a method of information preservation derived from the method of the same name described and used by scientist [[Niklas Luhmann\|Niklas Luhmann]] in the 20th century. It is primarily known as a note-taking method, based on the name and iconic usage through paper notecards, but it may be used as an organic and free-structure method of thought.

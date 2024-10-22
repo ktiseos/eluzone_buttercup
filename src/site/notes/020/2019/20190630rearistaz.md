@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/020/2019/20190630rearistaz/","title":"rearistaz.","tags":["YTTD","Unfinished"],"noteIcon":"1","created":"2024-09-26T13:45:04.180-07:00","updated":"2024-09-26T19:19:25.950-07:00"}
+{"dg-publish":true,"permalink":"/020/2019/20190630rearistaz/","title":"rearistaz.","tags":["YTTD","Unfinished"],"noteIcon":"1","created":"2024-10-19T20:27:19.204-07:00","updated":"2024-09-26T19:19:25.950-07:00"}
 ---
 
 Look at you. Your father’s masterpiece.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/paraphyletic-groups/","title":"Paraphyletic Groups","tags":["BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.110-07:00","updated":"2024-10-03T22:32:42.081-07:00"}
+{"dg-publish":true,"permalink":"/011/02/paraphyletic-groups/","title":"Paraphyletic Groups","tags":["BIOL422"],"noteIcon":"1","created":"2024-10-19T20:27:19.094-07:00","updated":"2024-10-03T22:32:42.081-07:00"}
 ---
 
 A **paraphyletic group** is a [[011/02/Taxonomic Clades\|clade]] which does not include all members within it. It excludes a point of divergence from a [[011/02/Phylogenetic Node\|node]], which may lead to the exclusion of a [[011/02/Taxa\|taxon]] on a [[011/02/Phylogenetic Branch\|branch]] or an entire [[011/02/Monophyletic Groups\|monophyletic]] group.

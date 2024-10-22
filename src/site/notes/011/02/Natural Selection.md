@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/natural-selection/","title":"Natural Selection","tags":["BIOL305","BIOL422"],"noteIcon":"1","created":"2024-10-04T11:16:50.475-07:00","updated":"2024-10-04T11:51:15.041-07:00"}
+{"dg-publish":true,"permalink":"/011/02/natural-selection/","title":"Natural Selection","tags":["BIOL305","BIOL422"],"noteIcon":"1","created":"2024-10-19T20:27:19.085-07:00","updated":"2024-10-04T11:51:15.041-07:00"}
 ---
 
 **Natural selection** is the process of [[011/02/Microevolution\|microevolutionary]] change in a [[011/02/Biological Population\|population]] that is caused by [[011/02/Selective Pressures\|selective pressures]] that occur in its [[011/02/Ecosystem\|ecosystem]]. It was first proposed by [[011/02/Charles Darwin\|Charles Darwin]] and [[011/02/Alfred Russel Wallace\|Alfred Russel Wallace]], and it has presently developed into one of the major mechanisms of microevolution.

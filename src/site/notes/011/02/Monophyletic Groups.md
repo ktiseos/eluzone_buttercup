@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/monophyletic-groups/","title":"Monophyletic Groups","tags":["BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.106-07:00","updated":"2024-10-03T22:32:26.100-07:00"}
+{"dg-publish":true,"permalink":"/011/02/monophyletic-groups/","title":"Monophyletic Groups","tags":["BIOL422"],"noteIcon":"1","created":"2024-10-19T20:27:19.084-07:00","updated":"2024-10-03T22:32:26.100-07:00"}
 ---
 
 A **monophyletic group** is any [[011/02/Taxonomy\|taxonomic]] rank which comprises of all [[011/02/Taxa\|taxa]] that share a [[Common Ancestor\|common ancestor]]. In the art of [[011/02/Phylogenetics\|phylogenetics]], monophyletic groups are the ideal groups depicted in the [[011/02/Phylogenetics\|phylogeny]]. One hopes that each [[011/02/Taxonomic Clades\|clade]], or each group studied on the phylogeny, is monophyletic, and not [[011/02/Paraphyletic Groups\|paraphyletic]] or [[011/02/Polyphyletic Groups\|polyphyletic]]. This means that in the best-case scenario, a [[011/02/Taxonomic Clades\|clade]] is synonymous with the definition of a monophyletic group, and vice-versa. If a group is found to be paraphyletic or polyphyletic, often resulting from a lack of information and growing research, taxonomists will attempt to rework and recategorize the phylogenetic groups to create complete monophyletic groups and trees.

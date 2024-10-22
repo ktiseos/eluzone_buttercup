@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/primary-meristems/","title":"Primary Meristems","tags":["BIOL412"],"noteIcon":"1","created":"2024-09-26T13:45:04.121-07:00","updated":"2024-10-03T23:12:19.887-07:00"}
+{"dg-publish":true,"permalink":"/011/02/primary-meristems/","title":"Primary Meristems","tags":["BIOL412"],"noteIcon":"1","created":"2024-10-19T20:27:19.114-07:00","updated":"2024-10-03T23:12:19.887-07:00"}
 ---
 
 **Primary meristems** are layers of [[011/02/Meristems\|meristematic]] [[011/02/Tissues\|tissue]] produced by the [[011/02/Apical Meristems\|apical meristem]] of a [[011/02/Vascular Plants\|vascular plant]]. Three kinds of primary meristem exist:

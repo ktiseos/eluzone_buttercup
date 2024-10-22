@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/use-or-disuse-principle/","title":"'Use or Disuse' Principle","tags":["BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.060-07:00","updated":"2024-10-03T23:28:57.691-07:00"}
+{"dg-publish":true,"permalink":"/011/02/use-or-disuse-principle/","title":"'Use or Disuse' Principle","tags":["BIOL422"],"noteIcon":"1","created":"2024-10-19T20:27:19.004-07:00","updated":"2024-10-03T23:28:57.691-07:00"}
 ---
 
 The **“Use or Disuse” principle** was a case suggested by Jean Baptiste Lamarck circa 1809 to explain the mechanism behind the [[011/02/Gradualism\|gradual]], [[011/02/Uniformitarianism\|chronic]] observation of [[011/02/Evolution\|evolution]] and [[Variation\|variation]] via Lamarck’s hypothesis of the [[011/02/Inheritance of Acquired Characteristics\|“Inheritance of Acquired Characteristics”]]. Lamarck suggested that individual [[011/02/Organism\|organisms]] followed this principle as an explanation behind [[Phenotypes\|phenotypical]] variation within a species.

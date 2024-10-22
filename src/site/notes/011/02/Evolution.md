@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/evolution/","title":"Evolution","tags":["BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.083-07:00","updated":"2024-10-03T23:30:19.199-07:00"}
+{"dg-publish":true,"permalink":"/011/02/evolution/","title":"Evolution","tags":["BIOL422"],"noteIcon":"1","created":"2024-10-19T20:27:19.045-07:00","updated":"2024-10-03T23:30:19.199-07:00"}
 ---
 
 > [!quote] “Nothing in biology makes sense except in the light of evolution.” —Theodosius Dobzhansky

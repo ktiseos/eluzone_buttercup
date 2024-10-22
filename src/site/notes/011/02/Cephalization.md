@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/cephalization/","title":"Cephalization","tags":["BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.073-07:00","updated":"2024-10-03T23:29:37.912-07:00"}
+{"dg-publish":true,"permalink":"/011/02/cephalization/","title":"Cephalization","tags":["BIOL422"],"noteIcon":"1","created":"2024-10-19T20:27:19.028-07:00","updated":"2024-10-03T23:29:37.912-07:00"}
 ---
 
 **Cephalization** is an evolutionary trend in which sensory and [[Nervous Tissues\|nervous]] [[011/02/Organs\|organs]] are placed in the [[Anterior\|anterior]] region of an [[011/02/Organism\|organism]]. This creates a “[[Cephalic Region\|cephalic region]]” at the anterior, forming a head and a [[Brain\|brain]]. Due to the focus of an anterior (and by proxy, a posterior) region, cephalization is commonly seen in [[011/02/Organism\|organisms]] alongside [[Bilateral Symmetry\|bilateral symmetry]]. Bilaterally symmetric organisms [[Locomotion\|locomote]] head-first and thus require their sensory and nervous organs to be at their anterior. As such, it is one of the characteristic traits of members of the [[011/02/Taxonomic Clades\|clade]] [[Bilatera\|Bilatera]].

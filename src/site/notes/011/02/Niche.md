@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/niche/","title":"Niche","tags":["BIOL305","BIOL422"],"noteIcon":"1","created":"2024-10-04T12:02:39.121-07:00","updated":"2024-10-04T12:07:27.009-07:00"}
+{"dg-publish":true,"permalink":"/011/02/niche/","title":"Niche","tags":["BIOL305","BIOL422"],"noteIcon":"1","created":"2024-10-19T20:27:19.088-07:00","updated":"2024-10-04T12:07:27.009-07:00"}
 ---
 
 A **niche** is a particular role or function that a [[011/02/Biological Population\|population]] serves in an [[011/02/Ecosystem\|ecosystem]] in a given period of history. These roles most commonly relate to predation and the “food web” relationships within the ecosystem.

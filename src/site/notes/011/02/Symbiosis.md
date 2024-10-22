@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/symbiosis/","title":"Symbiosis","tags":["APBIO","BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.133-07:00","updated":"2024-10-03T23:08:23.133-07:00"}
+{"dg-publish":true,"permalink":"/011/02/symbiosis/","title":"Symbiosis","tags":["APBIO","BIOL422"],"noteIcon":"1","created":"2024-10-19T20:27:19.132-07:00","updated":"2024-10-03T23:08:23.133-07:00"}
 ---
 
 **Symbiosis** is the umbrella term for any form of long-term [[Interspecific Interaction\|interspecific interaction]]. Symbiosis is a category of phenomena which occur in [[011/02/Biology\|biological]] [[011/02/Biological Community\|communities]]. It is not exclusive to beneficial interactions between [[011/02/Organism\|organisms]], and it accordingly includes behavior such as [[Predation\|predation]], [[Competition\|competition]], and [[Parasitism\|parasitism]].

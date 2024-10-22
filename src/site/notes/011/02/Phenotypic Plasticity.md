@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/phenotypic-plasticity/","title":"Phenotypic Plasticity","tags":["BIOL412"],"noteIcon":"1","created":"2024-09-26T13:45:04.113-07:00","updated":"2024-10-03T23:14:45.354-07:00"}
+{"dg-publish":true,"permalink":"/011/02/phenotypic-plasticity/","title":"Phenotypic Plasticity","tags":["BIOL412"],"noteIcon":"1","created":"2024-10-19T20:27:19.099-07:00","updated":"2024-10-03T23:14:45.354-07:00"}
 ---
 
 **Phenotypic plasticity** is a form of [[Plasticity\|plasticity]] which encompasses the ability of identical plant [[011/02/Cells\|cells]] to develop into different [[Phenotypes\|phenotypes]] depending on the environment in which the plant cell is present. Although the genes of the plant cells are identical, their form ultimately depends on the conditions of their environment, such as the temperature or the amount of sunlight received, or the function of the cell in the plant.

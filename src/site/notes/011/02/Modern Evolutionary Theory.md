@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/modern-evolutionary-theory/","title":"Modern Evolutionary Theory","tags":["BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.104-07:00","updated":"2024-10-03T23:17:28.808-07:00"}
+{"dg-publish":true,"permalink":"/011/02/modern-evolutionary-theory/","title":"Modern Evolutionary Theory","tags":["BIOL422"],"noteIcon":"1","created":"2024-10-19T20:27:19.080-07:00","updated":"2024-10-03T23:17:28.808-07:00"}
 ---
 
 **“Modern Evolutionary Theory”** is an approach to [[011/02/Evolution\|evolution]] which states that the genetic diversity and similarity across [[011/02/Organism\|organisms]] is ultimately caused by evolution, which is in turn prompted by [[Genetics\|genetic]] and [[Environmental Factors\|environmental factors]]. These factors most prominently include [[011/02/Natural Selection\|natural selection]], but other known factors include [[Genetic Drift\|genetic drift]] and [[Gene Flow\|gene flow]].

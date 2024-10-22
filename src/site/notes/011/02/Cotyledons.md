@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/cotyledons/","title":"Cotyledons","tags":["BIOL412"],"noteIcon":"1","created":"2024-09-26T13:45:04.078-07:00","updated":"2024-10-03T22:32:21.588-07:00"}
+{"dg-publish":true,"permalink":"/011/02/cotyledons/","title":"Cotyledons","tags":["BIOL412"],"noteIcon":"1","created":"2024-10-19T20:27:19.036-07:00","updated":"2024-10-03T22:32:21.588-07:00"}
 ---
 
 A **cotyledon** is an [[011/02/Organs\|organ]] found in [[Embryo\|embryonic]] [[011/02/Vascular Plants\|vascular plants]] before adolescent development. A vascular plant may have one or two cotyledons; of the [[011/02/Angiosperms\|angiosperms]], [[011/02/Monocots\|monocot]] [[Seeds\|seeds]] possess one cotyledon and [[011/02/Eudicots\|eudicots]] possess two. This difference is a distinguishing [[011/02/Evolutionary Traits\|trait]] between the [[011/02/Taxonomic Clades\|clades]] and is the etymological origin for the [[011/02/Taxonomic Clades\|clade]] names.

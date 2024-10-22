@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/tissues/","title":"Tissues","tags":["BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.137-07:00","updated":"2024-10-03T23:07:28.718-07:00"}
+{"dg-publish":true,"permalink":"/011/02/tissues/","title":"Tissues","tags":["BIOL422"],"noteIcon":"1","created":"2024-10-19T20:27:19.138-07:00","updated":"2024-10-03T23:07:28.718-07:00"}
 ---
 
 A **tissue** is a categorical level of organization on the cellular level within [[011/02/Biology\|biological]] [[011/02/Organism\|organisms]]. A tissue is a grouping of [[011/02/Cells\|cells]] who chiefly possess similar embryonic developmental origins as well as similar functions. A grouping of these tissues is then known as an [[011/02/Organs\|organ]].

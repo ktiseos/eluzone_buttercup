@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/02/adipose-tissues/","title":"Adipose Tissues","tags":["BIOL422"],"noteIcon":"1","created":"2024-09-26T13:45:04.062-07:00","updated":"2024-09-26T15:02:27.327-07:00"}
+{"dg-publish":true,"permalink":"/011/02/adipose-tissues/","title":"Adipose Tissues","tags":["BIOL422"],"noteIcon":"1","created":"2024-10-19T20:27:19.007-07:00","updated":"2024-09-26T15:02:27.327-07:00"}
 ---
 
 **Adipose tissues** are a kind of [[011/02/Connective Tissues\|connective tissue]] known for their large [[011/02/Specialization\|specialized]] [[011/02/Cells\|cells]] which are both densely packed within the [[011/02/Tissues\|tissue]] and are densely packed themselves with cellular material. These cells are known as [[011/02/Adipocytes\|adipocytes]] and pack [[Triglycerides\|triglycerides]]. Adipose tissues can be recognized by these cells, as their [[011/02/Fat Vacuoles\|fat vacuoles]] used to store these fatty acids are so large and dense that they will push other [[Organelles\|organelles]] to the edges of the cell.
