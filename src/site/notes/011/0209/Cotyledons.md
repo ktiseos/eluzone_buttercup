@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/011/0209/cotyledons/","title":"Cotyledons","tags":["BIOL412"],"created":"2024-10-03T22:32:21.000-07:00","updated":"2025-01-22T00:32:36.478-08:00"}
+---
+
+A **cotyledon** is an [[011/0209/Organs\|organ]] found in [[Embryo\|embryonic]] [[011/0209/Vascular Plants\|vascular plants]] before adolescent development. A vascular plant may have one or two cotyledons; of the [[011/0209/Angiosperms\|angiosperms]], [[011/0209/Monocots\|monocot]] [[Seeds\|seeds]] possess one cotyledon and [[011/0209/Eudicots\|eudicots]] possess two. This difference is a distinguishing [[011/0209/Evolutionary Traits\|trait]] between the [[011/0209/Taxonomic Clades\|clades]] and is the etymological origin for the [[011/0209/Taxonomic Clades\|clade]] names.
+
+The cotyledon is found in the sperm and underneath the [[Seed Coat\|seed coat]] after fertilization. Its function and appearance varies depending on whether or not the embryo relies on it for food storage. If the embryo depends on the [[011/0209/Endosperm\|endosperm]] for food storage, the cotyledon is not fleshy and is used for absorbing nutrients. If the embryo depends on the cotyledon or cotyledons, the organ is fleshy and full of nutrients, and the endosperm is often absorbed into either the embryo or the cotyledon. In plants where the latter is true, such as garden beans and various nuts, this cotyledon is preserved and eaten as commercial food.
+
+The cotyledon is a round, ovaline structure that borders the embryo axis. Eudicot cotyledons surround the embryo. In both cases, the cotyledon is attached to a single [[011/0209/Plant Nodes\|node]] on the embryo axis, and both the cotyledon and embryo are often bent within the shell. When broken apart in the shell, such as in garden beans and nuts, the cotyledon is broken apart.
+
+In adolescence, the node the cotyledons connect to is represented as the node of the first [[011/0209/Opposite Leaves\|opposite]] [[011/0209/Simple Leaf\|simple leaves]] that appear on the [[011/0209/Stems\|stem]]. These leaves are actually the remaining structure of the cotyledons and are not “true” leaves; they are separated from the [[Roots\|roots]] and the true leaves by the [[Hypocotyl\|hypocotyl]] and [[Epicotyl\|epicotyl]] regions of the stem respectively. Once the plant has turned green and is able to photosynthesize, the seed leaves may shrivel up and fall off, leaving behind a notch on the stem axis where they were.
+
+While the embryo develops, the cotyledon is often pulled upwards with the growth of the plant. This represents the formation of the primary root or roots from the [[011/0209/Radicle\|radicle]], which pulls the cotyledon and the epicotyl of the embryo from the ground.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/020/2024/naps-temp/","title":"Elu NAPS Templates","noteIcon":"1","created":"2024-10-19T20:27:19.224-07:00","updated":"2024-11-01T02:19:23.254-07:00"}
+{"dg-publish":true,"permalink":"/020/2024/naps-temp/","title":"Elu NAPS Templates","created":"2024-11-01T02:19:23.000-07:00","updated":"2024-11-01T02:19:23.000-07:00"}
 ---
 
 # \[ CURRENT ] 2024/10/06 Thread Template

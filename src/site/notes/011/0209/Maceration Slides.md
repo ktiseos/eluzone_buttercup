@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/011/0209/maceration-slides/","title":"Maceration Slides","tags":["BIOL412"],"created":"2024-09-26T15:20:56.000-07:00","updated":"2025-01-22T00:43:05.596-08:00"}
+---
+
+A **maceration slide** is a slide in which the [[011/0209/Middle Lamella\|middle lamellae]] of the studied [[011/0209/Cells\|cells]] have been dissolved, leaving the [[011/0209/Protoplast\|protoplast]] and the inner [[Cell Walls\|cell walls]] spread out on the slide. As a result, [[Organelles\|organelles]] and [[011/0209/Tissues\|tissue]] within the cells, such as, when in a section of [[Primary Tissues\|primary tissue]], [[Protoxylem\|protoxylem]], [[Metaxylem\|metaxylem]], [[011/0209/Tracheids\|tracheids]], [[011/0209/Vessel Elements\|vessel elements]], [[Phloem\|phloem]] fibers, and [[011/0209/Parenchyma\|parenchyma]] cells, can be seen clearer across the slide.

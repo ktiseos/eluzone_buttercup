@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/011/0209/woody-plants/","title":"Woody Plants","tags":["BIOL412"],"created":"2024-09-26T15:27:27.000-07:00","updated":"2025-01-22T00:59:12.529-08:00"}
+---
+
+A **woody plant** is any [[011/0209/Vascular Plants\|vascular plant]] that produces large amounts of [[Wood\|wood]] [[011/0209/Tissues\|tissue]] during its lifetime. Woody plants produce this wood for protection and support as the result of [[Secondary Tissues\|secondary tissue]] growth. Both woody plants and [[011/0209/Herbs\|herbs]], the latter being the matching [[Morphology\|morphological]] category of vascular plants, can produce wood, but woody plants will produce a considerable amount more. They are known for their hard, dense wood tissue which reinforces and protects the [[Tissue Systems\|tissue systems]] and thick layers created from [[Cork\|cork]] and wood.
+
+Woody plants include various trees and shrubs. Both [[011/0209/Gymnosperms\|gymnosperms]] and [[011/0209/Angiosperms\|angiosperms]] can be woody plants, as well as [[011/0209/Monocots\|monocots]] and [[011/0209/Eudicots\|eudicots]]. However, woody monocots do not produce secondary tissue as they lack [[Vascular Cambium\|vascular cambiums]]. Although they still produce wood, monocots will remain thin; examples of this include palm trees.

@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/011/0209/plumule/","title":"Plumule","tags":["BIOL412"],"created":"2024-09-26T15:23:49.000-07:00","updated":"2025-01-22T00:51:04.633-08:00"}
+---
+
+The **plumule** is an [[011/0209/Organs\|organ]] found in the [[Embryo\|embryo]] of [[011/0209/Vascular Plants\|vascular plants]]. It is the [[011/0209/Apical Buds\|terminal bud]] of the embryonic [[011/0209/Shoot System\|shoot]]; it contains the [[011/0209/Apical Meristems\|apical meristem]], which includes the [[Leaf Primordia\|leaf]] and [[Bud Primordia\|bud primordia]] as they develop into the first [[011/0209/Leaves\|leaves]] and buds. It is subsequently one of the most vital organs in the embryo during development.
+
+The embryo has multiple ways of protecting the plumule during [[Germination\|germination]], though they differ between [[011/0209/Angiosperms\|angiosperm]] [[011/0209/Taxonomic Clades\|clades]]:
+- In [[011/0209/Eudicots\|eudicots]], as the [[Roots\|roots]] develop from the [[011/0209/Radicle\|radicle]], the plumule is pulled upwards and backwards between the [[011/0209/Cotyledons\|cotyledons]]. The radicle curves downward, and the growing roots anchor into the soil, forming a “hook” shape in the exposed hypocotyl or root aboveground. The plumule eventually points up straight, allowing for the shoot to grow upwards.
+- In [[011/0209/Monocots\|monocots]], the shoot develops directly upwards without the use of a “hook”. The plumule is enclosed by the [[011/0209/Coleoptile\|coleoptile]], protecting it as it emerges through the soil while the roots grow. The plumule is covered by the leaf sheath, created by the coleoptile, and by further leaves as they grow.

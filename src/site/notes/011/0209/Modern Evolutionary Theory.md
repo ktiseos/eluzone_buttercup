@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/011/0209/modern-evolutionary-theory/","title":"Modern Evolutionary Theory","tags":["BIOL422"],"created":"2024-10-03T23:17:28.000-07:00","updated":"2025-01-22T00:44:18.861-08:00"}
+---
+
+**“Modern Evolutionary Theory”** is an approach to [[011/0209/Evolution\|evolution]] which states that the genetic diversity and similarity across [[011/0209/Organism\|organisms]] is ultimately caused by evolution, which is in turn prompted by [[Genetics\|genetic]] and [[Environmental Factors\|environmental factors]]. These factors most prominently include [[011/0209/Natural Selection\|natural selection]], but other known factors include [[Genetic Drift\|genetic drift]] and [[Gene Flow\|gene flow]].
+
+Modern evolutionary theory was first based on [[011/0209/Charles Darwin\|Charles Darwin’s]] theory of [[Descent with Modification\|“Descent with Modification”]]—a theory better known today as **the theory of evolution by natural selection**. Although the key tenets of the “Descent with Modification” theory still maintain the foundation of evolutionary theory, the modern approach has since grown to encompass other factors of evolution and remains a longstanding theory today. As such, one must remember that it, almost reflective of [[011/0209/Biology\|biology]] and science as a whole, is constantly evolving (haha) and works to adapt to the new observations and evidence. One notable example is its present inability to explain [[Epigenetics\|epigenetics]] in full.

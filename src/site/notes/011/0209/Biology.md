@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/011/0209/biology/","title":"Biology","tags":["BIOL305"],"created":"2024-10-03T23:05:12.000-07:00","updated":"2025-01-22T00:28:41.308-08:00"}
+---
+
+**Biology** is the study of life and living [[011/0209/Organism\|organisms]], including what constitutes and how these organisms are constituted at a scientific level. Biology includes subcategories regarding genetic evolution & adaptation, physiological & behavioral development, and [[011/0209/Taxonomy\|taxonomy]] & cladistics. It is an interdisciplinary field that often crosses over with other scientific fields such as physics and chemistry, but also crosses over with statistics, humanities, and the arts. However, the main subcategories associated with biology are unified by two overarching concepts: the structural levels of life and the emergent properties of life. Each subcategory and their studies observes both of these concepts: life is organized into several structures of increasing complexity, and something is only alive if it adheres to the emergent properties of life.

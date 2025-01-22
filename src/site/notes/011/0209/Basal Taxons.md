@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/011/0209/basal-taxons/","title":"Basal Taxons","tags":["BIOL422"],"created":"2024-09-26T15:03:32.000-07:00","updated":"2025-01-22T00:28:25.822-08:00"}
+---
+
+A **basal taxon** is a [[011/0209/Taxa\|taxon]] or lineage that diverges early on in the lifelong [[011/0209/Evolution\|evolution]] of a [[Common Ancestor\|common ancestor]]. If studied on a [[011/0209/Phylogenetics\|phylogeny]], the taxon has branched off within the first [[011/0209/Phylogenetic Node\|nodes]] which are furthest away or closest to the root if not [[011/0209/Phylogenetic Branch\|branched]] off from the [[011/0209/Phylogenetic Root\|root]] itself, while other [[011/0209/Phylogenetic Node\|phylogenetic nodes]] have appeared in the same time.
+
+This trend of early divergence causes the taxon to share few similarities with more recently evolved species, any convergent [[011/0209/Evolutionary Traits\|evolutionary traits]] aside. However, a basal taxon will still share [[Orthologous\|orthologous]] [[Genes\|genes]] with taxa who share a common ancestor with it. This unity means basal taxa can be studied in parallel and equally for shared, similar, or orthologous systems. One example is the study of genes in yeast which are linked to disease when in the human body, an ethical study which allows for pathologic breakthroughs.
