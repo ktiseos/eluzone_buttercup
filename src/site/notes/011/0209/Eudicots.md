@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/0209/eudicots/","title":"Eudicots","tags":["BIOL412"],"created":"2024-10-03T22:32:23.000-07:00","updated":"2025-01-22T00:36:41.675-08:00"}
+{"dg-publish":true,"permalink":"/011/0209/eudicots/","title":"Eudicots","tags":["BIOL412","BIOL320"],"created":"2024-10-03T22:32:23.000-07:00","updated":"2025-02-07T10:38:59.304-08:00"}
 ---
 
 **Eudicots** are a [[011/0209/Taxonomic Clades\|clade]] of [[011/0209/Angiosperms\|angiosperms]]. They are named for the observation of two [[011/0209/Cotyledons\|cotyledons]] on the [[Embryo\|embryo]] during development, although they share various other differences to their [[011/0209/Sister Groups\|sister]] [[011/0209/Taxonomic Clades\|clade]], the [[011/0209/Monocots\|monocots]].

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/0209/monocots/","title":"Monocots","tags":["BIOL412"],"created":"2024-09-26T15:21:32.000-07:00","updated":"2025-01-22T00:44:43.725-08:00"}
+{"dg-publish":true,"permalink":"/011/0209/monocots/","title":"Monocots","tags":["BIOL412","BIOL320"],"created":"2024-09-26T15:21:32.000-07:00","updated":"2025-02-07T10:39:13.889-08:00"}
 ---
 
 **Monocots** are a [[011/0209/Taxonomic Clades\|clade]] of [[011/0209/Angiosperms\|angiosperms]]. They are named for having one [[011/0209/Cotyledons\|cotyledon]] while the [[Embryo\|embryo]] develops, although they share additional differences to their [[011/0209/Sister Groups\|sister]] [[011/0209/Taxonomic Clades\|clade]], the [[011/0209/Eudicots\|Eudicots]].

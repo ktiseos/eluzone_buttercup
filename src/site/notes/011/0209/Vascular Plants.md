@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/0209/vascular-plants/","title":"Vascular Plants","tags":["BIOL412"],"created":"2024-09-26T15:27:07.000-07:00","updated":"2025-01-22T00:58:28.530-08:00"}
+{"dg-publish":true,"permalink":"/011/0209/vascular-plants/","title":"Vascular Plants","tags":["BIOL412","linker-exclude"],"created":"2024-09-26T15:27:07.000-07:00","updated":"2025-01-24T10:14:53.394-08:00"}
 ---
 
 **Vascular plants** are an informal, non-[[011/0209/Taxonomy\|taxonomical]] classification of [[Land Plants\|land plants]]. They are one of the broadest classifications for land plants alongside [[011/0209/Bryophytes\|bryophytes]]. Compared to bryophytes, all vascular plants possess some form of [[Vascular Tissue\|vascular tissue]], allowing extensive mineral and water transport through the plant for development and growth.

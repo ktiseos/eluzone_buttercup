@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/0209/systematics/","title":"Systematics","tags":["BIOL422"],"created":"2024-10-03T23:31:56.000-07:00","updated":"2025-01-22T00:56:08.879-08:00"}
+{"dg-publish":true,"permalink":"/011/0209/systematics/","title":"Systematics","tags":["BIOL422","BIOL320"],"created":"2024-10-03T23:31:56.000-07:00","updated":"2025-01-24T10:30:41.001-08:00"}
 ---
 
 **Systematics** is the classification of [[011/0209/Organism\|organisms]] and their [[011/0209/Evolution\|evolutionary]] relationships. Systematics is a broader category which encompasses several methods and forms of study of evolutionary history which attempt to place [[Hierarchies\|hierarchical]], branching connections between [[Species\|species]]. It includes methods such as [[Cladistics\|cladistics]], [[011/0209/Phylogenetics\|phylogenetics]], and [[011/0209/Taxonomy\|taxonomy]], but it is not necessarily synonymous with all, let alone any of these methods.

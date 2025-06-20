@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/0209/corms/","title":"Corms","tags":["BIOL412"],"created":"2024-10-01T09:33:27.000-07:00","updated":"2025-01-22T00:32:23.628-08:00"}
+{"dg-publish":true,"permalink":"/011/0209/corms/","title":"Corms","tags":["BIOL412","BIOL320"],"created":"2024-10-01T09:33:27.000-07:00","updated":"2025-02-21T09:54:57.238-08:00"}
 ---
 
 A **corm** is a [[011/0209/Stems\|stem]] in an [[011/0209/Herbs\|herbaceous]] [[011/0209/Vascular Plants\|vascular plant]] that has been modified to store food. In plants that possess a corm, the stem is modified into a large, fleshy, and bulbous sheath that wraps around the food.

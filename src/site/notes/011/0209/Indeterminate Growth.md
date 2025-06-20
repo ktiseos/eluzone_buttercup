@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/0209/indeterminate-growth/","title":"Indeterminate Growth","tags":["BIOL412"],"created":"2024-10-03T23:20:20.000-07:00","updated":"2025-01-22T00:40:18.423-08:00"}
+{"dg-publish":true,"permalink":"/011/0209/indeterminate-growth/","title":"Indeterminate Growth","tags":["BIOL412","BIOL320"],"created":"2024-10-03T23:20:20.000-07:00","updated":"2025-02-21T09:56:23.957-08:00"}
 ---
 
 **Indeterminate growth** is the ability of an [[011/0209/Organism\|organism]] to grow and develop further [[Module\|modules]] infinitely so long as it is provided with the resources to successfully develop, such as nutrients and water. This pattern of growth occurs in the [[Vegetative\|vegetative]] structure of [[Plants\|plants]] and rarely occurs in animals; animals are more likely to undergo [[Determinate Growth\|determinate growth]].

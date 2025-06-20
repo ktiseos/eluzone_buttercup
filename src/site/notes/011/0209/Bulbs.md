@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/0209/bulbs/","title":"Plant Bulbs","tags":["BIOL412"],"created":"2024-10-01T08:55:43.000-07:00","updated":"2025-01-22T00:29:15.270-08:00"}
+{"dg-publish":true,"permalink":"/011/0209/bulbs/","title":"Plant Bulbs","tags":["BIOL412","BIOL320"],"created":"2024-10-01T08:55:43.000-07:00","updated":"2025-02-21T09:54:52.740-08:00"}
 ---
 
 A **bulb** is a group of [[011/0209/Leaves\|leaves]] in a [[011/0209/Herbs\|herbaceous]] [[011/0209/Vascular Plants\|vascular plant]] that have been modified to store food. In plants that possess a bulb, the leaves have been modified to become scale-like and fleshy, and they store the food in a grouping over the [[011/0209/Stems\|stem]] and [[Roots\|roots]] of the plant.

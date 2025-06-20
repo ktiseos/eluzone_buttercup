@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/0209/stems/","title":"Stems","tags":["BIOL412"],"created":"2024-10-03T23:09:01.000-07:00","updated":"2025-01-22T00:55:05.597-08:00"}
+{"dg-publish":true,"permalink":"/011/0209/stems/","title":"Stems","tags":["BIOL412","BIOL320"],"created":"2024-10-03T23:09:01.000-07:00","updated":"2025-01-24T10:35:52.665-08:00"}
 ---
 
 The **stem** is the central stalk of a [[011/0209/Vascular Plants\|vascular plant]] that is found in its [[011/0209/Shoot System\|shoot system]]. All of the structures in a [[Plants\|plant]] are connected to it; a plant cannot grow and develop without it.

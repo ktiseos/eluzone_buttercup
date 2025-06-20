@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/0209/petiole/","title":"Petiole","tags":["BIOL412"],"created":"2024-09-26T15:22:41.000-07:00","updated":"2025-01-22T00:48:55.933-08:00"}
+{"dg-publish":true,"permalink":"/011/0209/petiole/","title":"Petiole","tags":["BIOL412","BIOL320"],"created":"2024-09-26T15:22:41.000-07:00","updated":"2025-01-24T10:29:19.417-08:00"}
 ---
 
 The **petiole** is a stalk-like structure found in the standard two-part structure of [[011/0209/Leaves\|leaves]]. Despite looking like the [[011/0209/Stems\|stem]], it is not actually a part of the stem of the plant. Additionally, the term encompasses the stalk of both [[011/0209/Simple Leaf\|simple leaves]] and the stalk that joins [[Leaflets\|leaflets]] to the petiole attached at the [[011/0209/Plant Nodes\|node]] of a [[011/0209/Compound Leaves\|compound leaf]]. The petiole is not necessary to identify a leaf, but the presence of it immediately denotes the presence of a leaf.

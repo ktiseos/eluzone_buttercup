@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/020/2024/sudden-death-untold-loss/","title":"sudden death, untold loss","created":"2024-07-12T17:43:45.000-07:00","updated":"2025-01-21T02:24:24.433-08:00"}
+{"dg-publish":true,"permalink":"/020/2024/sudden-death-untold-loss/","title":"sudden death, untold loss","created":"2024-07-12T17:43:45.000-07:00","updated":"2025-02-26T02:40:50.548-08:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 >
 > *i search for him in my memories and i search for him in the world’s. but i’m 12 hours away from him and 4 more by car. wherever i press enter, he’s already gone.*
 
-duckbills are mammals, not birds—but as you lift this one by the tail with a thick leather glove, your third observation is how easily it might be mistaken for one submerged underwater. but most birds, your mentor taught you, lack the ability to survive underwater at length: even the capabilities of duckbills are finite, but far longer than all but the seabirds of the northern empty. when you first found this one, you stood back to fulfill your contract through the kindest hand to all. you watched it dive for prey in a meracydian oxbow and counted the seconds by pale green bushes. one, two, three, four, nine seconds, no, nine minutes: this one emerged after nine and some, beak first, foreflippers second, dirt still caked on its beak and falling as it shook its way back to air.
+duckbills are mammals, not birds—but as you lift this one by the tail with a thick leather glove, your third observation is how easily it might be mistaken for one submerged underwater. but most birds, your mentor taught you, lack the ability to survive underwater at length: even the capabilities of duckbills are finite, but far longer than all but the seabirds of the northern empty. when you first found this one, you stood back to fulfill your contract through the kindest hand to all. you watched it dive for prey in a meracydian oxbow and counted the seconds by pale green bushes. one, two, three, four, nine seconds. no, nine minutes: this one emerged after nine and some, beak first, foreflippers second, dirt still caked on its beak and falling as it shook its way back to air.
 
 ducks, on the other hand, which the beak of this creature and its brethren compare to, have only precious seconds to spend. all this, every evolution, every ounce of aether which made them, dedicates to a blink of time to dive or even dip their beaks beneath the ripples to survive. on one of your furthest trips as a child, your mother pushed aside the moss and showed you a mallard tipping over, stretching only an ilm into the water, creating the faintest waves on the surface as it sickled the seeds and insects.
 

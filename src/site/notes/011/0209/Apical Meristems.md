@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/0209/apical-meristems/","title":"Apical Meristems","tags":["BIOL412"],"created":"2024-09-26T15:03:04.000-07:00","updated":"2025-01-22T00:28:02.149-08:00"}
+{"dg-publish":true,"permalink":"/011/0209/apical-meristems/","title":"Apical Meristems","tags":["BIOL412","BIOL320"],"created":"2024-09-26T15:03:04.000-07:00","updated":"2025-01-24T10:30:08.322-08:00"}
 ---
 
 **Apical meristems** are [[011/0209/Meristems\|meristem]] groups found in the tips of the [[011/0209/Shoot System\|shoot system]] in [[011/0209/Vascular Plants\|vascular plants]]. These areas include all [[011/0209/Plant Buds\|plant buds]] and the [[Root Tips\|root tips]] within a [[Plants\|plant]].

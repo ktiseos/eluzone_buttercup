@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/011/0209/phylogenetics/","title":"Phylogenetics","tags":["BIOL422"],"created":"2024-10-03T22:31:36.000-07:00","updated":"2025-01-22T00:49:40.776-08:00"}
+{"dg-publish":true,"permalink":"/011/0209/phylogenetics/","title":"Phylogenetics","tags":["BIOL422","BIOL320"],"created":"2024-10-03T22:31:36.000-07:00","updated":"2025-01-24T10:30:58.516-08:00"}
 ---
 
 **Phylogenetics** is the study of the [[011/0209/Evolution\|evolutionary]] history of [[011/0209/Biology\|biology]] via phylogenies (*sg.* phylogeny), [[011/0209/Taxonomy\|taxonomic]] trees which prioritize placing [[011/0209/Taxa\|taxa]] into complete [[011/0209/Taxonomic Clades\|clades]]. Examples of full phylogenies include the “Tree of Life,” where all modern [[011/0209/Organism\|organisms]] ([[Bacteria\|Bacteria]], [[Archaea\|Archaea]], [[Animalia\|Animalia]], etc.) are linked to a [[Common Ancestor\|common ancestor]] ([[LUCA\|“LUCA”]]), or a [[Chordata\|Chordata]] phylogeny for all [[Vertebrates\|vertebrate]] organisms.
